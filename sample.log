@@ -1,0 +1,2000 @@
+2026-02-21T03:00:03Z INFO  GET /api/users 200 12ms
+2026-02-21T03:00:06Z INFO  GET /health 200 3ms
+2026-02-21T03:00:09Z INFO  Slow query detected: 1076ms
+2026-02-21T03:00:12Z INFO  POST /api/login 401 9ms
+2026-02-21T03:00:15Z INFO  Slow query detected: 1517ms
+2026-02-21T03:00:18Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:00:21Z INFO  Slow query detected: 1109ms
+2026-02-21T03:00:24Z WARN  Slow query detected: 1476ms
+2026-02-21T03:00:27Z INFO  GET /health 200 3ms
+2026-02-21T03:00:30Z WARN  Database connection timeout
+2026-02-21T03:00:33Z INFO  POST /api/login 401 9ms
+2026-02-21T03:00:36Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:00:39Z INFO  Cache miss for key user:1024
+2026-02-21T03:00:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:00:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:00:48Z INFO  POST /api/login 401 9ms
+2026-02-21T03:00:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:00:54Z INFO  GET /health 200 3ms
+2026-02-21T03:00:57Z INFO  GET /health 200 3ms
+2026-02-21T03:01:00Z ERROR  Background job completed
+2026-02-21T03:01:03Z WARN  Database connection timeout
+2026-02-21T03:01:06Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:01:09Z INFO  Database connection timeout
+2026-02-21T03:01:12Z WARN  Server started on port 3000
+2026-02-21T03:01:15Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:01:18Z INFO  Background job completed
+2026-02-21T03:01:21Z INFO  Server started on port 3000
+2026-02-21T03:01:24Z INFO  GET /api/users 200 12ms
+2026-02-21T03:01:27Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:01:30Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:01:33Z INFO  GET /api/users 200 12ms
+2026-02-21T03:01:36Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:01:39Z INFO  Server started on port 3000
+2026-02-21T03:01:42Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:01:45Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:01:48Z INFO  GET /health 200 3ms
+2026-02-21T03:01:51Z ERROR  Cache miss for key user:1024
+2026-02-21T03:01:54Z INFO  GET /health 200 3ms
+2026-02-21T03:01:57Z INFO  Background job completed
+2026-02-21T03:02:00Z INFO  Server started on port 3000
+2026-02-21T03:02:03Z WARN  Server started on port 3000
+2026-02-21T03:02:06Z INFO  Background job completed
+2026-02-21T03:02:09Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:02:12Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:02:15Z INFO  GET /health 200 3ms
+2026-02-21T03:02:18Z INFO  POST /api/login 401 9ms
+2026-02-21T03:02:21Z ERROR  Slow query detected: 716ms
+2026-02-21T03:02:24Z INFO  Background job completed
+2026-02-21T03:02:27Z WARN  Cache miss for key user:1024
+2026-02-21T03:02:30Z INFO  GET /api/users 200 12ms
+2026-02-21T03:02:33Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:02:36Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:02:39Z INFO  Server started on port 3000
+2026-02-21T03:02:42Z INFO  Server started on port 3000
+2026-02-21T03:02:45Z INFO  Database connection timeout
+2026-02-21T03:02:48Z ERROR  Background job completed
+2026-02-21T03:02:51Z INFO  Database connection timeout
+2026-02-21T03:02:54Z INFO  GET /api/users 200 12ms
+2026-02-21T03:02:57Z INFO  Slow query detected: 771ms
+2026-02-21T03:03:00Z INFO  Background job completed
+2026-02-21T03:03:03Z INFO  GET /health 200 3ms
+2026-02-21T03:03:06Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:03:09Z ERROR  Server started on port 3000
+2026-02-21T03:03:12Z ERROR  Cache miss for key user:1024
+2026-02-21T03:03:15Z ERROR  Background job completed
+2026-02-21T03:03:18Z INFO  Background job completed
+2026-02-21T03:03:21Z INFO  POST /api/login 401 9ms
+2026-02-21T03:03:24Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:03:27Z INFO  Slow query detected: 680ms
+2026-02-21T03:03:30Z INFO  Background job completed
+2026-02-21T03:03:33Z INFO  Slow query detected: 1311ms
+2026-02-21T03:03:36Z WARN  Cache miss for key user:1024
+2026-02-21T03:03:39Z INFO  Background job completed
+2026-02-21T03:03:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:03:45Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:03:48Z WARN  Database connection timeout
+2026-02-21T03:03:51Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:03:54Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:03:57Z WARN  GET /api/users 200 12ms
+2026-02-21T03:04:00Z INFO  Server started on port 3000
+2026-02-21T03:04:03Z INFO  Database connection timeout
+2026-02-21T03:04:06Z WARN  Slow query detected: 1184ms
+2026-02-21T03:04:09Z INFO  Server started on port 3000
+2026-02-21T03:04:12Z WARN  Server started on port 3000
+2026-02-21T03:04:15Z ERROR  Cache miss for key user:1024
+2026-02-21T03:04:18Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:04:21Z INFO  Database connection timeout
+2026-02-21T03:04:24Z INFO  POST /api/login 401 9ms
+2026-02-21T03:04:27Z WARN  POST /api/login 401 9ms
+2026-02-21T03:04:30Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:04:33Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:04:36Z WARN  POST /api/login 401 9ms
+2026-02-21T03:04:39Z ERROR  Cache miss for key user:1024
+2026-02-21T03:04:42Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:04:45Z INFO  POST /api/login 401 9ms
+2026-02-21T03:04:48Z INFO  GET /health 200 3ms
+2026-02-21T03:04:51Z ERROR  Database connection timeout
+2026-02-21T03:04:54Z INFO  GET /health 200 3ms
+2026-02-21T03:04:57Z INFO  POST /api/login 401 9ms
+2026-02-21T03:05:00Z INFO  Database connection timeout
+2026-02-21T03:05:03Z INFO  Background job completed
+2026-02-21T03:05:06Z INFO  POST /api/login 401 9ms
+2026-02-21T03:05:09Z INFO  POST /api/login 401 9ms
+2026-02-21T03:05:12Z ERROR  Database connection timeout
+2026-02-21T03:05:15Z WARN  GET /api/users 200 12ms
+2026-02-21T03:05:18Z INFO  Slow query detected: 1262ms
+2026-02-21T03:05:21Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:05:24Z INFO  GET /health 200 3ms
+2026-02-21T03:05:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:05:30Z INFO  GET /health 200 3ms
+2026-02-21T03:05:33Z WARN  GET /health 200 3ms
+2026-02-21T03:05:36Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:05:39Z INFO  POST /api/login 401 9ms
+2026-02-21T03:05:42Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:05:45Z ERROR  Cache miss for key user:1024
+2026-02-21T03:05:48Z INFO  GET /api/users 200 12ms
+2026-02-21T03:05:51Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:05:54Z INFO  GET /health 200 3ms
+2026-02-21T03:05:57Z WARN  GET /health 200 3ms
+2026-02-21T03:06:00Z INFO  Slow query detected: 1381ms
+2026-02-21T03:06:03Z INFO  Database connection timeout
+2026-02-21T03:06:06Z WARN  Server started on port 3000
+2026-02-21T03:06:09Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:06:12Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:06:15Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:06:18Z INFO  Slow query detected: 1462ms
+2026-02-21T03:06:21Z INFO  Background job completed
+2026-02-21T03:06:24Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:06:27Z ERROR  Database connection timeout
+2026-02-21T03:06:30Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:06:33Z INFO  Cache miss for key user:1024
+2026-02-21T03:06:36Z INFO  Background job completed
+2026-02-21T03:06:39Z WARN  Database connection timeout
+2026-02-21T03:06:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:06:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:06:48Z INFO  GET /health 200 3ms
+2026-02-21T03:06:51Z INFO  POST /api/login 401 9ms
+2026-02-21T03:06:54Z WARN  Server started on port 3000
+2026-02-21T03:06:57Z WARN  Background job completed
+2026-02-21T03:07:00Z INFO  Cache miss for key user:1024
+2026-02-21T03:07:03Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:07:06Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:07:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:07:12Z INFO  GET /health 200 3ms
+2026-02-21T03:07:15Z INFO  Slow query detected: 1411ms
+2026-02-21T03:07:18Z ERROR  Database connection timeout
+2026-02-21T03:07:21Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:07:24Z INFO  GET /health 200 3ms
+2026-02-21T03:07:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:07:30Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:07:33Z INFO  Slow query detected: 1590ms
+2026-02-21T03:07:36Z WARN  GET /health 200 3ms
+2026-02-21T03:07:39Z INFO  Slow query detected: 1105ms
+2026-02-21T03:07:42Z ERROR  Database connection timeout
+2026-02-21T03:07:45Z INFO  Database connection timeout
+2026-02-21T03:07:48Z INFO  POST /api/login 401 9ms
+2026-02-21T03:07:51Z INFO  Server started on port 3000
+2026-02-21T03:07:54Z INFO  GET /api/users 200 12ms
+2026-02-21T03:07:57Z INFO  GET /api/users 200 12ms
+2026-02-21T03:08:00Z WARN  POST /api/login 401 9ms
+2026-02-21T03:08:03Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:08:06Z INFO  GET /health 200 3ms
+2026-02-21T03:08:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:08:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:08:15Z INFO  GET /health 200 3ms
+2026-02-21T03:08:18Z ERROR  GET /health 200 3ms
+2026-02-21T03:08:21Z ERROR  Server started on port 3000
+2026-02-21T03:08:24Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:08:27Z INFO  Server started on port 3000
+2026-02-21T03:08:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:08:33Z ERROR  Database connection timeout
+2026-02-21T03:08:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:08:39Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:08:42Z WARN  POST /api/login 401 9ms
+2026-02-21T03:08:45Z INFO  Slow query detected: 1545ms
+2026-02-21T03:08:48Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:08:51Z INFO  Slow query detected: 521ms
+2026-02-21T03:08:54Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:08:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:09:00Z INFO  GET /health 200 3ms
+2026-02-21T03:09:03Z INFO  POST /api/login 401 9ms
+2026-02-21T03:09:06Z INFO  GET /api/users 200 12ms
+2026-02-21T03:09:09Z ERROR  Background job completed
+2026-02-21T03:09:12Z WARN  Slow query detected: 920ms
+2026-02-21T03:09:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:09:18Z ERROR  Cache miss for key user:1024
+2026-02-21T03:09:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:09:24Z WARN  Database connection timeout
+2026-02-21T03:09:27Z ERROR  Slow query detected: 1516ms
+2026-02-21T03:09:30Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:09:33Z INFO  GET /api/users 200 12ms
+2026-02-21T03:09:36Z WARN  POST /api/login 401 9ms
+2026-02-21T03:09:39Z INFO  POST /api/login 401 9ms
+2026-02-21T03:09:42Z INFO  Slow query detected: 1181ms
+2026-02-21T03:09:45Z WARN  GET /api/users 200 12ms
+2026-02-21T03:09:48Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:09:51Z INFO  Slow query detected: 1279ms
+2026-02-21T03:09:54Z ERROR  Slow query detected: 959ms
+2026-02-21T03:09:57Z INFO  Background job completed
+2026-02-21T03:10:00Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:10:03Z INFO  Background job completed
+2026-02-21T03:10:06Z INFO  Cache miss for key user:1024
+2026-02-21T03:10:09Z INFO  Slow query detected: 588ms
+2026-02-21T03:10:12Z WARN  GET /health 200 3ms
+2026-02-21T03:10:15Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:10:18Z INFO  POST /api/login 401 9ms
+2026-02-21T03:10:21Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:10:24Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:10:27Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:10:30Z ERROR  Slow query detected: 1024ms
+2026-02-21T03:10:33Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:10:36Z INFO  GET /health 200 3ms
+2026-02-21T03:10:39Z INFO  Server started on port 3000
+2026-02-21T03:10:42Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:10:45Z INFO  Cache miss for key user:1024
+2026-02-21T03:10:48Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:10:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:10:54Z INFO  POST /api/login 401 9ms
+2026-02-21T03:10:57Z INFO  GET /api/users 200 12ms
+2026-02-21T03:11:00Z INFO  Database connection timeout
+2026-02-21T03:11:03Z WARN  Background job completed
+2026-02-21T03:11:06Z INFO  GET /api/users 200 12ms
+2026-02-21T03:11:09Z INFO  Background job completed
+2026-02-21T03:11:12Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:11:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:11:18Z INFO  Background job completed
+2026-02-21T03:11:21Z INFO  GET /api/users 200 12ms
+2026-02-21T03:11:24Z INFO  Database connection timeout
+2026-02-21T03:11:27Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:11:30Z WARN  Retrying database connection (attempt 3)
+2026-02-21T03:11:33Z INFO  Slow query detected: 1527ms
+2026-02-21T03:11:36Z ERROR  GET /health 200 3ms
+2026-02-21T03:11:39Z INFO  Slow query detected: 1098ms
+2026-02-21T03:11:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:11:45Z WARN  Cache miss for key user:1024
+2026-02-21T03:11:48Z INFO  POST /api/login 401 9ms
+2026-02-21T03:11:51Z INFO  Background job completed
+2026-02-21T03:11:54Z WARN  GET /health 200 3ms
+2026-02-21T03:11:57Z INFO  Cache miss for key user:1024
+2026-02-21T03:12:00Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:12:03Z INFO  Server started on port 3000
+2026-02-21T03:12:06Z INFO  Cache miss for key user:1024
+2026-02-21T03:12:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:12:12Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:12:15Z INFO  Server started on port 3000
+2026-02-21T03:12:18Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:12:21Z ERROR  Server started on port 3000
+2026-02-21T03:12:24Z INFO  GET /api/users 200 12ms
+2026-02-21T03:12:27Z INFO  GET /health 200 3ms
+2026-02-21T03:12:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:12:33Z INFO  GET /health 200 3ms
+2026-02-21T03:12:36Z WARN  Background job completed
+2026-02-21T03:12:39Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:12:42Z ERROR  Database connection timeout
+2026-02-21T03:12:45Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:12:48Z INFO  GET /api/users 200 12ms
+2026-02-21T03:12:51Z INFO  Database connection timeout
+2026-02-21T03:12:54Z ERROR  Cache miss for key user:1024
+2026-02-21T03:12:57Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:13:00Z INFO  GET /api/users 200 12ms
+2026-02-21T03:13:03Z INFO  GET /api/users 200 12ms
+2026-02-21T03:13:06Z INFO  Database connection timeout
+2026-02-21T03:13:09Z WARN  Slow query detected: 1292ms
+2026-02-21T03:13:12Z INFO  Background job completed
+2026-02-21T03:13:15Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:13:18Z WARN  Cache miss for key user:1024
+2026-02-21T03:13:21Z ERROR  GET /health 200 3ms
+2026-02-21T03:13:24Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:13:27Z INFO  Slow query detected: 649ms
+2026-02-21T03:13:30Z INFO  GET /health 200 3ms
+2026-02-21T03:13:33Z ERROR  Background job completed
+2026-02-21T03:13:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:13:39Z INFO  GET /api/users 200 12ms
+2026-02-21T03:13:42Z ERROR  Database connection timeout
+2026-02-21T03:13:45Z INFO  Slow query detected: 1291ms
+2026-02-21T03:13:48Z INFO  POST /api/login 401 9ms
+2026-02-21T03:13:51Z ERROR  Background job completed
+2026-02-21T03:13:54Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:13:57Z WARN  GET /api/users 200 12ms
+2026-02-21T03:14:00Z WARN  Cache miss for key user:1024
+2026-02-21T03:14:03Z INFO  GET /api/users 200 12ms
+2026-02-21T03:14:06Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:14:09Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:14:12Z INFO  Server started on port 3000
+2026-02-21T03:14:15Z INFO  Background job completed
+2026-02-21T03:14:18Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:14:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:14:24Z INFO  Server started on port 3000
+2026-02-21T03:14:27Z ERROR  Background job completed
+2026-02-21T03:14:30Z INFO  Database connection timeout
+2026-02-21T03:14:33Z INFO  POST /api/login 401 9ms
+2026-02-21T03:14:36Z INFO  GET /api/users 200 12ms
+2026-02-21T03:14:39Z WARN  Database connection timeout
+2026-02-21T03:14:42Z INFO  Cache miss for key user:1024
+2026-02-21T03:14:45Z WARN  Server started on port 3000
+2026-02-21T03:14:48Z INFO  Server started on port 3000
+2026-02-21T03:14:51Z ERROR  GET /health 200 3ms
+2026-02-21T03:14:54Z INFO  POST /api/login 401 9ms
+2026-02-21T03:14:57Z ERROR  Database connection timeout
+2026-02-21T03:15:00Z INFO  POST /api/login 401 9ms
+2026-02-21T03:15:03Z INFO  POST /api/login 401 9ms
+2026-02-21T03:15:06Z ERROR  Background job completed
+2026-02-21T03:15:09Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:15:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:15:15Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:15:18Z WARN  GET /health 200 3ms
+2026-02-21T03:15:21Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:15:24Z INFO  Database connection timeout
+2026-02-21T03:15:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:15:30Z WARN  GET /api/users 200 12ms
+2026-02-21T03:15:33Z INFO  Background job completed
+2026-02-21T03:15:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:15:39Z WARN  Retrying database connection (attempt 3)
+2026-02-21T03:15:42Z ERROR  Slow query detected: 1022ms
+2026-02-21T03:15:45Z INFO  Background job completed
+2026-02-21T03:15:48Z INFO  GET /health 200 3ms
+2026-02-21T03:15:51Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:15:54Z INFO  Database connection timeout
+2026-02-21T03:15:57Z WARN  Server started on port 3000
+2026-02-21T03:16:00Z INFO  GET /health 200 3ms
+2026-02-21T03:16:03Z INFO  GET /api/users 200 12ms
+2026-02-21T03:16:06Z INFO  GET /health 200 3ms
+2026-02-21T03:16:09Z INFO  GET /health 200 3ms
+2026-02-21T03:16:12Z INFO  Server started on port 3000
+2026-02-21T03:16:15Z INFO  POST /api/login 401 9ms
+2026-02-21T03:16:18Z INFO  Cache miss for key user:1024
+2026-02-21T03:16:21Z INFO  Background job completed
+2026-02-21T03:16:24Z WARN  Cache miss for key user:1024
+2026-02-21T03:16:27Z WARN  Cache miss for key user:1024
+2026-02-21T03:16:30Z WARN  GET /api/users 200 12ms
+2026-02-21T03:16:33Z INFO  Server started on port 3000
+2026-02-21T03:16:36Z INFO  Slow query detected: 1146ms
+2026-02-21T03:16:39Z INFO  Server started on port 3000
+2026-02-21T03:16:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:16:45Z INFO  GET /api/users 200 12ms
+2026-02-21T03:16:48Z INFO  Database connection timeout
+2026-02-21T03:16:51Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:16:54Z INFO  Slow query detected: 654ms
+2026-02-21T03:16:57Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:17:00Z INFO  Slow query detected: 1031ms
+2026-02-21T03:17:03Z WARN  POST /api/login 401 9ms
+2026-02-21T03:17:06Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:17:09Z WARN  Cache miss for key user:1024
+2026-02-21T03:17:12Z ERROR  Background job completed
+2026-02-21T03:17:15Z INFO  Slow query detected: 759ms
+2026-02-21T03:17:18Z INFO  Server started on port 3000
+2026-02-21T03:17:21Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:17:24Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:17:27Z INFO  GET /health 200 3ms
+2026-02-21T03:17:30Z INFO  Server started on port 3000
+2026-02-21T03:17:33Z WARN  Cache miss for key user:1024
+2026-02-21T03:17:36Z WARN  POST /api/login 401 9ms
+2026-02-21T03:17:39Z INFO  Slow query detected: 1274ms
+2026-02-21T03:17:42Z ERROR  Cache miss for key user:1024
+2026-02-21T03:17:45Z ERROR  Background job completed
+2026-02-21T03:17:48Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:17:51Z INFO  Background job completed
+2026-02-21T03:17:54Z WARN  Background job completed
+2026-02-21T03:17:57Z INFO  Server started on port 3000
+2026-02-21T03:18:00Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:18:03Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:18:06Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:18:09Z INFO  Server started on port 3000
+2026-02-21T03:18:12Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:18:15Z ERROR  GET /health 200 3ms
+2026-02-21T03:18:18Z INFO  Cache miss for key user:1024
+2026-02-21T03:18:21Z WARN  Cache miss for key user:1024
+2026-02-21T03:18:24Z INFO  Server started on port 3000
+2026-02-21T03:18:27Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:18:30Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:18:33Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:18:36Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:18:39Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:18:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:18:45Z ERROR  Slow query detected: 927ms
+2026-02-21T03:18:48Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:18:51Z WARN  Slow query detected: 1368ms
+2026-02-21T03:18:54Z INFO  Database connection timeout
+2026-02-21T03:18:57Z WARN  Background job completed
+2026-02-21T03:19:00Z INFO  Server started on port 3000
+2026-02-21T03:19:03Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:19:06Z WARN  Server started on port 3000
+2026-02-21T03:19:09Z INFO  Slow query detected: 979ms
+2026-02-21T03:19:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:19:15Z ERROR  Database connection timeout
+2026-02-21T03:19:18Z ERROR  Slow query detected: 1071ms
+2026-02-21T03:19:21Z INFO  Background job completed
+2026-02-21T03:19:24Z INFO  Slow query detected: 1558ms
+2026-02-21T03:19:27Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:19:30Z INFO  Server started on port 3000
+2026-02-21T03:19:33Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:19:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:19:39Z INFO  POST /api/login 401 9ms
+2026-02-21T03:19:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:19:45Z WARN  Database connection timeout
+2026-02-21T03:19:48Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:19:51Z INFO  Database connection timeout
+2026-02-21T03:19:54Z WARN  GET /health 200 3ms
+2026-02-21T03:19:57Z WARN  Cache miss for key user:1024
+2026-02-21T03:20:00Z INFO  GET /api/users 200 12ms
+2026-02-21T03:20:03Z INFO  Cache miss for key user:1024
+2026-02-21T03:20:06Z WARN  Server started on port 3000
+2026-02-21T03:20:09Z ERROR  Cache miss for key user:1024
+2026-02-21T03:20:12Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:20:15Z INFO  GET /health 200 3ms
+2026-02-21T03:20:18Z INFO  Cache miss for key user:1024
+2026-02-21T03:20:21Z INFO  Cache miss for key user:1024
+2026-02-21T03:20:24Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:20:27Z INFO  Cache miss for key user:1024
+2026-02-21T03:20:30Z INFO  GET /health 200 3ms
+2026-02-21T03:20:33Z INFO  GET /api/users 200 12ms
+2026-02-21T03:20:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:20:39Z INFO  GET /api/users 200 12ms
+2026-02-21T03:20:42Z WARN  Server started on port 3000
+2026-02-21T03:20:45Z INFO  Server started on port 3000
+2026-02-21T03:20:48Z WARN  Retrying database connection (attempt 3)
+2026-02-21T03:20:51Z WARN  Background job completed
+2026-02-21T03:20:54Z ERROR  Background job completed
+2026-02-21T03:20:57Z ERROR  Background job completed
+2026-02-21T03:21:00Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:21:03Z INFO  Database connection timeout
+2026-02-21T03:21:06Z ERROR  Server started on port 3000
+2026-02-21T03:21:09Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:21:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:21:15Z WARN  POST /api/login 401 9ms
+2026-02-21T03:21:18Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:21:21Z WARN  Background job completed
+2026-02-21T03:21:24Z INFO  Slow query detected: 1484ms
+2026-02-21T03:21:27Z ERROR  Slow query detected: 673ms
+2026-02-21T03:21:30Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:21:33Z INFO  POST /api/login 401 9ms
+2026-02-21T03:21:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:21:39Z INFO  Cache miss for key user:1024
+2026-02-21T03:21:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:21:45Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:21:48Z INFO  GET /health 200 3ms
+2026-02-21T03:21:51Z ERROR  Database connection timeout
+2026-02-21T03:21:54Z INFO  GET /health 200 3ms
+2026-02-21T03:21:57Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:22:00Z WARN  GET /health 200 3ms
+2026-02-21T03:22:03Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:22:06Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:22:09Z INFO  POST /api/login 401 9ms
+2026-02-21T03:22:12Z INFO  Cache miss for key user:1024
+2026-02-21T03:22:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:22:18Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:22:21Z INFO  Slow query detected: 1283ms
+2026-02-21T03:22:24Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:22:27Z INFO  Database connection timeout
+2026-02-21T03:22:30Z ERROR  Server started on port 3000
+2026-02-21T03:22:33Z ERROR  Database connection timeout
+2026-02-21T03:22:36Z INFO  Server started on port 3000
+2026-02-21T03:22:39Z INFO  Database connection timeout
+2026-02-21T03:22:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:22:45Z WARN  POST /api/login 401 9ms
+2026-02-21T03:22:48Z INFO  Background job completed
+2026-02-21T03:22:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:22:54Z INFO  GET /api/users 200 12ms
+2026-02-21T03:22:57Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:23:00Z WARN  GET /health 200 3ms
+2026-02-21T03:23:03Z ERROR  Server started on port 3000
+2026-02-21T03:23:06Z INFO  Background job completed
+2026-02-21T03:23:09Z INFO  POST /api/login 401 9ms
+2026-02-21T03:23:12Z WARN  Slow query detected: 1239ms
+2026-02-21T03:23:15Z INFO  Slow query detected: 1289ms
+2026-02-21T03:23:18Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:23:21Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:23:24Z INFO  Cache miss for key user:1024
+2026-02-21T03:23:27Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:23:30Z INFO  GET /health 200 3ms
+2026-02-21T03:23:33Z WARN  Server started on port 3000
+2026-02-21T03:23:36Z INFO  GET /health 200 3ms
+2026-02-21T03:23:39Z ERROR  Cache miss for key user:1024
+2026-02-21T03:23:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:23:45Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:23:48Z INFO  GET /health 200 3ms
+2026-02-21T03:23:51Z INFO  Database connection timeout
+2026-02-21T03:23:54Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:23:57Z INFO  Background job completed
+2026-02-21T03:24:00Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:24:03Z WARN  GET /health 200 3ms
+2026-02-21T03:24:06Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:24:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:24:12Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:24:15Z INFO  Server started on port 3000
+2026-02-21T03:24:18Z ERROR  Server started on port 3000
+2026-02-21T03:24:21Z WARN  Background job completed
+2026-02-21T03:24:24Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:24:27Z INFO  GET /health 200 3ms
+2026-02-21T03:24:30Z INFO  Slow query detected: 1411ms
+2026-02-21T03:24:33Z INFO  Database connection timeout
+2026-02-21T03:24:36Z INFO  Background job completed
+2026-02-21T03:24:39Z ERROR  Cache miss for key user:1024
+2026-02-21T03:24:42Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:24:45Z INFO  POST /api/login 401 9ms
+2026-02-21T03:24:48Z INFO  Database connection timeout
+2026-02-21T03:24:51Z INFO  POST /api/login 401 9ms
+2026-02-21T03:24:54Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:24:57Z INFO  Background job completed
+2026-02-21T03:25:00Z INFO  Background job completed
+2026-02-21T03:25:03Z INFO  Server started on port 3000
+2026-02-21T03:25:06Z INFO  POST /api/login 401 9ms
+2026-02-21T03:25:09Z INFO  Database connection timeout
+2026-02-21T03:25:12Z INFO  POST /api/login 401 9ms
+2026-02-21T03:25:15Z INFO  GET /health 200 3ms
+2026-02-21T03:25:18Z INFO  GET /api/users 200 12ms
+2026-02-21T03:25:21Z INFO  Slow query detected: 929ms
+2026-02-21T03:25:24Z ERROR  Background job completed
+2026-02-21T03:25:27Z INFO  Cache miss for key user:1024
+2026-02-21T03:25:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:25:33Z WARN  Slow query detected: 1372ms
+2026-02-21T03:25:36Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:25:39Z INFO  POST /api/login 401 9ms
+2026-02-21T03:25:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:25:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:25:48Z INFO  Slow query detected: 1517ms
+2026-02-21T03:25:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:25:54Z INFO  Server started on port 3000
+2026-02-21T03:25:57Z INFO  Slow query detected: 682ms
+2026-02-21T03:26:00Z ERROR  Background job completed
+2026-02-21T03:26:03Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:26:06Z INFO  GET /api/users 200 12ms
+2026-02-21T03:26:09Z INFO  GET /health 200 3ms
+2026-02-21T03:26:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:26:15Z INFO  Cache miss for key user:1024
+2026-02-21T03:26:18Z INFO  Cache miss for key user:1024
+2026-02-21T03:26:21Z INFO  GET /health 200 3ms
+2026-02-21T03:26:24Z INFO  Database connection timeout
+2026-02-21T03:26:27Z INFO  Database connection timeout
+2026-02-21T03:26:30Z WARN  GET /api/users 200 12ms
+2026-02-21T03:26:33Z ERROR  GET /health 200 3ms
+2026-02-21T03:26:36Z INFO  GET /api/users 200 12ms
+2026-02-21T03:26:39Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:26:42Z INFO  Server started on port 3000
+2026-02-21T03:26:45Z WARN  Background job completed
+2026-02-21T03:26:48Z WARN  Retrying database connection (attempt 3)
+2026-02-21T03:26:51Z ERROR  Slow query detected: 1414ms
+2026-02-21T03:26:54Z INFO  Cache miss for key user:1024
+2026-02-21T03:26:57Z WARN  Slow query detected: 786ms
+2026-02-21T03:27:00Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:27:03Z INFO  Cache miss for key user:1024
+2026-02-21T03:27:06Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:27:09Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:27:12Z ERROR  Slow query detected: 547ms
+2026-02-21T03:27:15Z INFO  Background job completed
+2026-02-21T03:27:18Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:27:21Z INFO  Background job completed
+2026-02-21T03:27:24Z INFO  Cache miss for key user:1024
+2026-02-21T03:27:27Z INFO  POST /api/login 401 9ms
+2026-02-21T03:27:30Z WARN  GET /health 200 3ms
+2026-02-21T03:27:33Z WARN  Cache miss for key user:1024
+2026-02-21T03:27:36Z INFO  Server started on port 3000
+2026-02-21T03:27:39Z INFO  GET /health 200 3ms
+2026-02-21T03:27:42Z INFO  Background job completed
+2026-02-21T03:27:45Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:27:48Z INFO  Slow query detected: 940ms
+2026-02-21T03:27:51Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:27:54Z WARN  GET /health 200 3ms
+2026-02-21T03:27:57Z INFO  Cache miss for key user:1024
+2026-02-21T03:28:00Z INFO  Slow query detected: 1042ms
+2026-02-21T03:28:03Z ERROR  Slow query detected: 1477ms
+2026-02-21T03:28:06Z WARN  Server started on port 3000
+2026-02-21T03:28:09Z INFO  Background job completed
+2026-02-21T03:28:12Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:28:15Z INFO  Database connection timeout
+2026-02-21T03:28:18Z INFO  Background job completed
+2026-02-21T03:28:21Z INFO  Cache miss for key user:1024
+2026-02-21T03:28:24Z ERROR  Server started on port 3000
+2026-02-21T03:28:27Z INFO  Database connection timeout
+2026-02-21T03:28:30Z WARN  Database connection timeout
+2026-02-21T03:28:33Z INFO  Cache miss for key user:1024
+2026-02-21T03:28:36Z INFO  GET /api/users 200 12ms
+2026-02-21T03:28:39Z INFO  GET /api/users 200 12ms
+2026-02-21T03:28:42Z INFO  Server started on port 3000
+2026-02-21T03:28:45Z INFO  GET /api/users 200 12ms
+2026-02-21T03:28:48Z WARN  GET /api/users 200 12ms
+2026-02-21T03:28:51Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:28:54Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:28:57Z INFO  Database connection timeout
+2026-02-21T03:29:00Z WARN  POST /api/login 401 9ms
+2026-02-21T03:29:03Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:29:06Z ERROR  Cache miss for key user:1024
+2026-02-21T03:29:09Z WARN  Cache miss for key user:1024
+2026-02-21T03:29:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:29:15Z ERROR  Slow query detected: 1490ms
+2026-02-21T03:29:18Z INFO  Background job completed
+2026-02-21T03:29:21Z ERROR  Server started on port 3000
+2026-02-21T03:29:24Z WARN  Database connection timeout
+2026-02-21T03:29:27Z INFO  GET /api/users 200 12ms
+2026-02-21T03:29:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:29:33Z INFO  Server started on port 3000
+2026-02-21T03:29:36Z ERROR  Server started on port 3000
+2026-02-21T03:29:39Z WARN  POST /api/login 401 9ms
+2026-02-21T03:29:42Z ERROR  Slow query detected: 1082ms
+2026-02-21T03:29:45Z INFO  Cache miss for key user:1024
+2026-02-21T03:29:48Z ERROR  Slow query detected: 648ms
+2026-02-21T03:29:51Z INFO  POST /api/login 401 9ms
+2026-02-21T03:29:54Z INFO  Slow query detected: 1180ms
+2026-02-21T03:29:57Z INFO  GET /api/users 200 12ms
+2026-02-21T03:30:00Z INFO  Server started on port 3000
+2026-02-21T03:30:03Z INFO  GET /api/users 200 12ms
+2026-02-21T03:30:06Z INFO  GET /api/users 200 12ms
+2026-02-21T03:30:09Z INFO  Server started on port 3000
+2026-02-21T03:30:12Z INFO  Database connection timeout
+2026-02-21T03:30:15Z WARN  Background job completed
+2026-02-21T03:30:18Z INFO  Server started on port 3000
+2026-02-21T03:30:21Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:30:24Z INFO  Database connection timeout
+2026-02-21T03:30:27Z INFO  POST /api/login 401 9ms
+2026-02-21T03:30:30Z ERROR  Slow query detected: 1555ms
+2026-02-21T03:30:33Z INFO  GET /api/users 200 12ms
+2026-02-21T03:30:36Z WARN  GET /api/users 200 12ms
+2026-02-21T03:30:39Z INFO  Server started on port 3000
+2026-02-21T03:30:42Z INFO  Slow query detected: 1516ms
+2026-02-21T03:30:45Z WARN  Database connection timeout
+2026-02-21T03:30:48Z WARN  Cache miss for key user:1024
+2026-02-21T03:30:51Z INFO  Slow query detected: 1005ms
+2026-02-21T03:30:54Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:30:57Z INFO  Cache miss for key user:1024
+2026-02-21T03:31:00Z ERROR  Server started on port 3000
+2026-02-21T03:31:03Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:31:06Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:31:09Z INFO  Database connection timeout
+2026-02-21T03:31:12Z INFO  Cache miss for key user:1024
+2026-02-21T03:31:15Z INFO  Cache miss for key user:1024
+2026-02-21T03:31:18Z ERROR  Background job completed
+2026-02-21T03:31:21Z WARN  Server started on port 3000
+2026-02-21T03:31:24Z ERROR  Server started on port 3000
+2026-02-21T03:31:27Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:31:30Z ERROR  Cache miss for key user:1024
+2026-02-21T03:31:33Z INFO  Background job completed
+2026-02-21T03:31:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:31:39Z INFO  Database connection timeout
+2026-02-21T03:31:42Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:31:45Z ERROR  Slow query detected: 1017ms
+2026-02-21T03:31:48Z INFO  Server started on port 3000
+2026-02-21T03:31:51Z INFO  Background job completed
+2026-02-21T03:31:54Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:31:57Z INFO  Server started on port 3000
+2026-02-21T03:32:00Z ERROR  Server started on port 3000
+2026-02-21T03:32:03Z ERROR  Slow query detected: 1226ms
+2026-02-21T03:32:06Z INFO  Cache miss for key user:1024
+2026-02-21T03:32:09Z INFO  Slow query detected: 1347ms
+2026-02-21T03:32:12Z INFO  Background job completed
+2026-02-21T03:32:15Z INFO  POST /api/login 401 9ms
+2026-02-21T03:32:18Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:32:21Z WARN  GET /api/users 200 12ms
+2026-02-21T03:32:24Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:32:27Z WARN  GET /api/users 200 12ms
+2026-02-21T03:32:30Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:32:33Z WARN  Database connection timeout
+2026-02-21T03:32:36Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:32:39Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:32:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:32:45Z INFO  Cache miss for key user:1024
+2026-02-21T03:32:48Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:32:51Z WARN  Retrying database connection (attempt 3)
+2026-02-21T03:32:54Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:32:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:33:00Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:33:03Z INFO  Database connection timeout
+2026-02-21T03:33:06Z INFO  POST /api/login 401 9ms
+2026-02-21T03:33:09Z INFO  POST /api/login 401 9ms
+2026-02-21T03:33:12Z ERROR  Cache miss for key user:1024
+2026-02-21T03:33:15Z ERROR  Background job completed
+2026-02-21T03:33:18Z ERROR  Database connection timeout
+2026-02-21T03:33:21Z WARN  GET /api/users 200 12ms
+2026-02-21T03:33:24Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:33:27Z ERROR  Slow query detected: 725ms
+2026-02-21T03:33:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:33:33Z INFO  POST /api/login 401 9ms
+2026-02-21T03:33:36Z INFO  Slow query detected: 1462ms
+2026-02-21T03:33:39Z WARN  Cache miss for key user:1024
+2026-02-21T03:33:42Z WARN  GET /api/users 200 12ms
+2026-02-21T03:33:45Z ERROR  GET /health 200 3ms
+2026-02-21T03:33:48Z INFO  Cache miss for key user:1024
+2026-02-21T03:33:51Z INFO  POST /api/login 401 9ms
+2026-02-21T03:33:54Z INFO  POST /api/login 401 9ms
+2026-02-21T03:33:57Z INFO  GET /api/users 200 12ms
+2026-02-21T03:34:00Z INFO  Cache miss for key user:1024
+2026-02-21T03:34:03Z INFO  POST /api/login 401 9ms
+2026-02-21T03:34:06Z INFO  POST /api/login 401 9ms
+2026-02-21T03:34:09Z INFO  POST /api/login 401 9ms
+2026-02-21T03:34:12Z INFO  Background job completed
+2026-02-21T03:34:15Z INFO  GET /api/users 200 12ms
+2026-02-21T03:34:18Z INFO  POST /api/login 401 9ms
+2026-02-21T03:34:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:34:24Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:34:27Z ERROR  Background job completed
+2026-02-21T03:34:30Z INFO  Server started on port 3000
+2026-02-21T03:34:33Z WARN  Cache miss for key user:1024
+2026-02-21T03:34:36Z ERROR  Database connection timeout
+2026-02-21T03:34:39Z INFO  POST /api/login 401 9ms
+2026-02-21T03:34:42Z INFO  Slow query detected: 1578ms
+2026-02-21T03:34:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:34:48Z ERROR  Background job completed
+2026-02-21T03:34:51Z INFO  Slow query detected: 554ms
+2026-02-21T03:34:54Z ERROR  Server started on port 3000
+2026-02-21T03:34:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:35:00Z INFO  POST /api/login 401 9ms
+2026-02-21T03:35:03Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:35:06Z WARN  GET /api/users 200 12ms
+2026-02-21T03:35:09Z INFO  GET /api/users 200 12ms
+2026-02-21T03:35:12Z WARN  GET /health 200 3ms
+2026-02-21T03:35:15Z INFO  POST /api/login 401 9ms
+2026-02-21T03:35:18Z INFO  Database connection timeout
+2026-02-21T03:35:21Z WARN  Slow query detected: 1388ms
+2026-02-21T03:35:24Z WARN  GET /health 200 3ms
+2026-02-21T03:35:27Z INFO  Cache miss for key user:1024
+2026-02-21T03:35:30Z INFO  Database connection timeout
+2026-02-21T03:35:33Z INFO  POST /api/login 401 9ms
+2026-02-21T03:35:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:35:39Z WARN  Background job completed
+2026-02-21T03:35:42Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:35:45Z WARN  Cache miss for key user:1024
+2026-02-21T03:35:48Z INFO  GET /health 200 3ms
+2026-02-21T03:35:51Z INFO  Slow query detected: 991ms
+2026-02-21T03:35:54Z ERROR  Background job completed
+2026-02-21T03:35:57Z INFO  Database connection timeout
+2026-02-21T03:36:00Z WARN  GET /api/users 200 12ms
+2026-02-21T03:36:03Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:36:06Z WARN  Database connection timeout
+2026-02-21T03:36:09Z ERROR  Cache miss for key user:1024
+2026-02-21T03:36:12Z INFO  Cache miss for key user:1024
+2026-02-21T03:36:15Z ERROR  Slow query detected: 645ms
+2026-02-21T03:36:18Z WARN  GET /health 200 3ms
+2026-02-21T03:36:21Z INFO  Slow query detected: 1154ms
+2026-02-21T03:36:24Z INFO  Server started on port 3000
+2026-02-21T03:36:27Z ERROR  Database connection timeout
+2026-02-21T03:36:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:36:33Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:36:36Z ERROR  Background job completed
+2026-02-21T03:36:39Z INFO  Database connection timeout
+2026-02-21T03:36:42Z INFO  Cache miss for key user:1024
+2026-02-21T03:36:45Z INFO  Slow query detected: 1525ms
+2026-02-21T03:36:48Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:36:51Z WARN  POST /api/login 401 9ms
+2026-02-21T03:36:54Z INFO  GET /health 200 3ms
+2026-02-21T03:36:57Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:37:00Z INFO  Background job completed
+2026-02-21T03:37:03Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:37:06Z INFO  Server started on port 3000
+2026-02-21T03:37:09Z ERROR  Cache miss for key user:1024
+2026-02-21T03:37:12Z INFO  GET /health 200 3ms
+2026-02-21T03:37:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:37:18Z INFO  POST /api/login 401 9ms
+2026-02-21T03:37:21Z WARN  GET /health 200 3ms
+2026-02-21T03:37:24Z WARN  GET /api/users 200 12ms
+2026-02-21T03:37:27Z INFO  POST /api/login 401 9ms
+2026-02-21T03:37:30Z WARN  Background job completed
+2026-02-21T03:37:33Z ERROR  Cache miss for key user:1024
+2026-02-21T03:37:36Z INFO  Database connection timeout
+2026-02-21T03:37:39Z INFO  Server started on port 3000
+2026-02-21T03:37:42Z INFO  Slow query detected: 1362ms
+2026-02-21T03:37:45Z WARN  Slow query detected: 1456ms
+2026-02-21T03:37:48Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:37:51Z INFO  GET /health 200 3ms
+2026-02-21T03:37:54Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:37:57Z INFO  GET /api/users 200 12ms
+2026-02-21T03:38:00Z INFO  Database connection timeout
+2026-02-21T03:38:03Z INFO  GET /health 200 3ms
+2026-02-21T03:38:06Z INFO  GET /health 200 3ms
+2026-02-21T03:38:09Z WARN  GET /health 200 3ms
+2026-02-21T03:38:12Z ERROR  Background job completed
+2026-02-21T03:38:15Z INFO  GET /api/users 200 12ms
+2026-02-21T03:38:18Z INFO  Cache miss for key user:1024
+2026-02-21T03:38:21Z WARN  Cache miss for key user:1024
+2026-02-21T03:38:24Z INFO  Background job completed
+2026-02-21T03:38:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:38:30Z INFO  Background job completed
+2026-02-21T03:38:33Z WARN  POST /api/login 401 9ms
+2026-02-21T03:38:36Z INFO  Slow query detected: 1322ms
+2026-02-21T03:38:39Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:38:42Z WARN  Cache miss for key user:1024
+2026-02-21T03:38:45Z INFO  Slow query detected: 804ms
+2026-02-21T03:38:48Z INFO  GET /health 200 3ms
+2026-02-21T03:38:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:38:54Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:38:57Z WARN  Background job completed
+2026-02-21T03:39:00Z INFO  Server started on port 3000
+2026-02-21T03:39:03Z INFO  GET /health 200 3ms
+2026-02-21T03:39:06Z WARN  POST /api/login 401 9ms
+2026-02-21T03:39:09Z INFO  Database connection timeout
+2026-02-21T03:39:12Z INFO  GET /health 200 3ms
+2026-02-21T03:39:15Z ERROR  Database connection timeout
+2026-02-21T03:39:18Z INFO  Database connection timeout
+2026-02-21T03:39:21Z WARN  POST /api/login 401 9ms
+2026-02-21T03:39:24Z WARN  Cache miss for key user:1024
+2026-02-21T03:39:27Z INFO  POST /api/login 401 9ms
+2026-02-21T03:39:30Z INFO  Background job completed
+2026-02-21T03:39:33Z WARN  Server started on port 3000
+2026-02-21T03:39:36Z INFO  Background job completed
+2026-02-21T03:39:39Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:39:42Z WARN  Background job completed
+2026-02-21T03:39:45Z INFO  Server started on port 3000
+2026-02-21T03:39:48Z INFO  Database connection timeout
+2026-02-21T03:39:51Z INFO  Background job completed
+2026-02-21T03:39:54Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:39:57Z ERROR  Server started on port 3000
+2026-02-21T03:40:00Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:40:03Z INFO  POST /api/login 401 9ms
+2026-02-21T03:40:06Z INFO  Cache miss for key user:1024
+2026-02-21T03:40:09Z WARN  Database connection timeout
+2026-02-21T03:40:12Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:40:15Z INFO  GET /health 200 3ms
+2026-02-21T03:40:18Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:40:21Z WARN  Background job completed
+2026-02-21T03:40:24Z INFO  Background job completed
+2026-02-21T03:40:27Z WARN  Cache miss for key user:1024
+2026-02-21T03:40:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:40:33Z INFO  Cache miss for key user:1024
+2026-02-21T03:40:36Z ERROR  Database connection timeout
+2026-02-21T03:40:39Z INFO  Database connection timeout
+2026-02-21T03:40:42Z INFO  Cache miss for key user:1024
+2026-02-21T03:40:45Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:40:48Z INFO  GET /api/users 200 12ms
+2026-02-21T03:40:51Z INFO  Background job completed
+2026-02-21T03:40:54Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:40:57Z INFO  GET /health 200 3ms
+2026-02-21T03:41:00Z WARN  Cache miss for key user:1024
+2026-02-21T03:41:03Z INFO  GET /api/users 200 12ms
+2026-02-21T03:41:06Z INFO  Database connection timeout
+2026-02-21T03:41:09Z ERROR  Background job completed
+2026-02-21T03:41:12Z INFO  Database connection timeout
+2026-02-21T03:41:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:41:18Z INFO  Database connection timeout
+2026-02-21T03:41:21Z WARN  Cache miss for key user:1024
+2026-02-21T03:41:24Z ERROR  Cache miss for key user:1024
+2026-02-21T03:41:27Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:41:30Z INFO  GET /health 200 3ms
+2026-02-21T03:41:33Z ERROR  GET /health 200 3ms
+2026-02-21T03:41:36Z INFO  Server started on port 3000
+2026-02-21T03:41:39Z INFO  Database connection timeout
+2026-02-21T03:41:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:41:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:41:48Z INFO  GET /health 200 3ms
+2026-02-21T03:41:51Z INFO  Database connection timeout
+2026-02-21T03:41:54Z INFO  Database connection timeout
+2026-02-21T03:41:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:42:00Z INFO  POST /api/login 401 9ms
+2026-02-21T03:42:03Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:42:06Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:42:09Z WARN  GET /api/users 200 12ms
+2026-02-21T03:42:12Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:42:15Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:42:18Z INFO  Background job completed
+2026-02-21T03:42:21Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:42:24Z INFO  POST /api/login 401 9ms
+2026-02-21T03:42:27Z INFO  Server started on port 3000
+2026-02-21T03:42:30Z WARN  POST /api/login 401 9ms
+2026-02-21T03:42:33Z ERROR  Cache miss for key user:1024
+2026-02-21T03:42:36Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:42:39Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:42:42Z WARN  Server started on port 3000
+2026-02-21T03:42:45Z INFO  Database connection timeout
+2026-02-21T03:42:48Z WARN  Background job completed
+2026-02-21T03:42:51Z INFO  Database connection timeout
+2026-02-21T03:42:54Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:42:57Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:43:00Z INFO  Slow query detected: 1478ms
+2026-02-21T03:43:03Z INFO  Cache miss for key user:1024
+2026-02-21T03:43:06Z ERROR  Cache miss for key user:1024
+2026-02-21T03:43:09Z INFO  Slow query detected: 574ms
+2026-02-21T03:43:12Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:43:15Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:43:18Z ERROR  Server started on port 3000
+2026-02-21T03:43:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:43:24Z INFO  Background job completed
+2026-02-21T03:43:27Z INFO  GET /api/users 200 12ms
+2026-02-21T03:43:30Z INFO  GET /health 200 3ms
+2026-02-21T03:43:33Z INFO  Background job completed
+2026-02-21T03:43:36Z WARN  Slow query detected: 1089ms
+2026-02-21T03:43:39Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:43:42Z ERROR  Slow query detected: 1259ms
+2026-02-21T03:43:45Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:43:48Z INFO  GET /api/users 200 12ms
+2026-02-21T03:43:51Z INFO  Database connection timeout
+2026-02-21T03:43:54Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:43:57Z INFO  Cache miss for key user:1024
+2026-02-21T03:44:00Z INFO  Background job completed
+2026-02-21T03:44:03Z WARN  Slow query detected: 1493ms
+2026-02-21T03:44:06Z INFO  Background job completed
+2026-02-21T03:44:09Z ERROR  Server started on port 3000
+2026-02-21T03:44:12Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:44:15Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:44:18Z INFO  Cache miss for key user:1024
+2026-02-21T03:44:21Z ERROR  Server started on port 3000
+2026-02-21T03:44:24Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:44:27Z INFO  POST /api/login 401 9ms
+2026-02-21T03:44:30Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:44:33Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:44:36Z WARN  GET /health 200 3ms
+2026-02-21T03:44:39Z INFO  Slow query detected: 524ms
+2026-02-21T03:44:42Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:44:45Z INFO  Slow query detected: 1057ms
+2026-02-21T03:44:48Z ERROR  Server started on port 3000
+2026-02-21T03:44:51Z INFO  Background job completed
+2026-02-21T03:44:54Z WARN  Database connection timeout
+2026-02-21T03:44:57Z INFO  Slow query detected: 1209ms
+2026-02-21T03:45:00Z WARN  GET /health 200 3ms
+2026-02-21T03:45:03Z WARN  POST /api/login 401 9ms
+2026-02-21T03:45:06Z WARN  Background job completed
+2026-02-21T03:45:09Z WARN  Server started on port 3000
+2026-02-21T03:45:12Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:45:15Z INFO  GET /health 200 3ms
+2026-02-21T03:45:18Z INFO  GET /health 200 3ms
+2026-02-21T03:45:21Z WARN  Database connection timeout
+2026-02-21T03:45:24Z INFO  POST /api/login 401 9ms
+2026-02-21T03:45:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:45:30Z ERROR  Background job completed
+2026-02-21T03:45:33Z INFO  Cache miss for key user:1024
+2026-02-21T03:45:36Z INFO  Cache miss for key user:1024
+2026-02-21T03:45:39Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:45:42Z INFO  Server started on port 3000
+2026-02-21T03:45:45Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:45:48Z INFO  GET /health 200 3ms
+2026-02-21T03:45:51Z INFO  GET /api/users 200 12ms
+2026-02-21T03:45:54Z WARN  Database connection timeout
+2026-02-21T03:45:57Z INFO  POST /api/login 401 9ms
+2026-02-21T03:46:00Z INFO  POST /api/login 401 9ms
+2026-02-21T03:46:03Z ERROR  Database connection timeout
+2026-02-21T03:46:06Z ERROR  Slow query detected: 1145ms
+2026-02-21T03:46:09Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:46:12Z INFO  POST /api/login 401 9ms
+2026-02-21T03:46:15Z INFO  POST /api/login 401 9ms
+2026-02-21T03:46:18Z INFO  POST /api/login 401 9ms
+2026-02-21T03:46:21Z INFO  Cache miss for key user:1024
+2026-02-21T03:46:24Z WARN  GET /api/users 200 12ms
+2026-02-21T03:46:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:46:30Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:46:33Z INFO  Server started on port 3000
+2026-02-21T03:46:36Z INFO  GET /health 200 3ms
+2026-02-21T03:46:39Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:46:42Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:46:45Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:46:48Z INFO  Slow query detected: 1520ms
+2026-02-21T03:46:51Z ERROR  Database connection timeout
+2026-02-21T03:46:54Z INFO  Database connection timeout
+2026-02-21T03:46:57Z WARN  Background job completed
+2026-02-21T03:47:00Z INFO  GET /health 200 3ms
+2026-02-21T03:47:03Z INFO  Slow query detected: 783ms
+2026-02-21T03:47:06Z INFO  GET /api/users 200 12ms
+2026-02-21T03:47:09Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:47:12Z INFO  POST /api/login 401 9ms
+2026-02-21T03:47:15Z INFO  Database connection timeout
+2026-02-21T03:47:18Z INFO  GET /health 200 3ms
+2026-02-21T03:47:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:47:24Z INFO  Database connection timeout
+2026-02-21T03:47:27Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:47:30Z INFO  Cache miss for key user:1024
+2026-02-21T03:47:33Z INFO  Slow query detected: 731ms
+2026-02-21T03:47:36Z INFO  Cache miss for key user:1024
+2026-02-21T03:47:39Z INFO  Background job completed
+2026-02-21T03:47:42Z WARN  Slow query detected: 1380ms
+2026-02-21T03:47:45Z INFO  GET /health 200 3ms
+2026-02-21T03:47:48Z INFO  Slow query detected: 751ms
+2026-02-21T03:47:51Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:47:54Z ERROR  Slow query detected: 1391ms
+2026-02-21T03:47:57Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:48:00Z INFO  Background job completed
+2026-02-21T03:48:03Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:48:06Z INFO  Database connection timeout
+2026-02-21T03:48:09Z INFO  GET /health 200 3ms
+2026-02-21T03:48:12Z WARN  Server started on port 3000
+2026-02-21T03:48:15Z INFO  Database connection timeout
+2026-02-21T03:48:18Z INFO  Database connection timeout
+2026-02-21T03:48:21Z INFO  GET /api/users 200 12ms
+2026-02-21T03:48:24Z INFO  GET /health 200 3ms
+2026-02-21T03:48:27Z INFO  Background job completed
+2026-02-21T03:48:30Z WARN  Database connection timeout
+2026-02-21T03:48:33Z INFO  POST /api/login 401 9ms
+2026-02-21T03:48:36Z WARN  Cache miss for key user:1024
+2026-02-21T03:48:39Z INFO  Background job completed
+2026-02-21T03:48:42Z ERROR  Server started on port 3000
+2026-02-21T03:48:45Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:48:48Z WARN  Server started on port 3000
+2026-02-21T03:48:51Z INFO  GET /api/users 200 12ms
+2026-02-21T03:48:54Z INFO  POST /api/login 401 9ms
+2026-02-21T03:48:57Z INFO  GET /health 200 3ms
+2026-02-21T03:49:00Z WARN  Background job completed
+2026-02-21T03:49:03Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:49:06Z INFO  GET /api/users 200 12ms
+2026-02-21T03:49:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:49:12Z ERROR  Cache miss for key user:1024
+2026-02-21T03:49:15Z ERROR  Server started on port 3000
+2026-02-21T03:49:18Z INFO  GET /health 200 3ms
+2026-02-21T03:49:21Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:49:24Z ERROR  Background job completed
+2026-02-21T03:49:27Z INFO  GET /health 200 3ms
+2026-02-21T03:49:30Z INFO  GET /health 200 3ms
+2026-02-21T03:49:33Z INFO  GET /health 200 3ms
+2026-02-21T03:49:36Z INFO  Server started on port 3000
+2026-02-21T03:49:39Z ERROR  Cache miss for key user:1024
+2026-02-21T03:49:42Z INFO  GET /health 200 3ms
+2026-02-21T03:49:45Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:49:48Z INFO  Server started on port 3000
+2026-02-21T03:49:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:49:54Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T03:49:57Z INFO  Cache miss for key user:1024
+2026-02-21T03:50:00Z INFO  Cache miss for key user:1024
+2026-02-21T03:50:03Z INFO  POST /api/login 401 9ms
+2026-02-21T03:50:06Z INFO  Server started on port 3000
+2026-02-21T03:50:09Z WARN  Retrying database connection (attempt 1)
+2026-02-21T03:50:12Z INFO  POST /api/login 401 9ms
+2026-02-21T03:50:15Z WARN  GET /api/users 200 12ms
+2026-02-21T03:50:18Z INFO  Background job completed
+2026-02-21T03:50:21Z INFO  Cache miss for key user:1024
+2026-02-21T03:50:24Z INFO  Slow query detected: 1274ms
+2026-02-21T03:50:27Z WARN  GET /api/users 200 12ms
+2026-02-21T03:50:30Z INFO  Server started on port 3000
+2026-02-21T03:50:33Z ERROR  Slow query detected: 1394ms
+2026-02-21T03:50:36Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:50:39Z INFO  Cache miss for key user:1024
+2026-02-21T03:50:42Z INFO  Server started on port 3000
+2026-02-21T03:50:45Z ERROR  GET /health 200 3ms
+2026-02-21T03:50:48Z INFO  GET /health 200 3ms
+2026-02-21T03:50:51Z WARN  Server started on port 3000
+2026-02-21T03:50:54Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:50:57Z INFO  POST /api/login 401 9ms
+2026-02-21T03:51:00Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:51:03Z WARN  GET /health 200 3ms
+2026-02-21T03:51:06Z WARN  Server started on port 3000
+2026-02-21T03:51:09Z INFO  Database connection timeout
+2026-02-21T03:51:12Z ERROR  Background job completed
+2026-02-21T03:51:15Z INFO  Background job completed
+2026-02-21T03:51:18Z ERROR  Background job completed
+2026-02-21T03:51:21Z WARN  Server started on port 3000
+2026-02-21T03:51:24Z WARN  GET /health 200 3ms
+2026-02-21T03:51:27Z ERROR  Background job completed
+2026-02-21T03:51:30Z INFO  GET /health 200 3ms
+2026-02-21T03:51:33Z INFO  Cache miss for key user:1024
+2026-02-21T03:51:36Z ERROR  Database connection timeout
+2026-02-21T03:51:39Z INFO  Server started on port 3000
+2026-02-21T03:51:42Z WARN  Background job completed
+2026-02-21T03:51:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:51:48Z INFO  Cache miss for key user:1024
+2026-02-21T03:51:51Z ERROR  Background job completed
+2026-02-21T03:51:54Z INFO  GET /health 200 3ms
+2026-02-21T03:51:57Z INFO  Server started on port 3000
+2026-02-21T03:52:00Z INFO  GET /health 200 3ms
+2026-02-21T03:52:03Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:52:06Z INFO  GET /health 200 3ms
+2026-02-21T03:52:09Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:52:12Z WARN  Slow query detected: 1373ms
+2026-02-21T03:52:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:52:18Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:52:21Z INFO  Background job completed
+2026-02-21T03:52:24Z WARN  Cache miss for key user:1024
+2026-02-21T03:52:27Z INFO  POST /api/login 401 9ms
+2026-02-21T03:52:30Z ERROR  Database connection timeout
+2026-02-21T03:52:33Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:52:36Z ERROR  GET /health 200 3ms
+2026-02-21T03:52:39Z ERROR  Slow query detected: 857ms
+2026-02-21T03:52:42Z INFO  POST /api/login 401 9ms
+2026-02-21T03:52:45Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T03:52:48Z INFO  GET /api/users 200 12ms
+2026-02-21T03:52:51Z ERROR  GET /health 200 3ms
+2026-02-21T03:52:54Z WARN  Retrying database connection (attempt 2)
+2026-02-21T03:52:57Z INFO  Database connection timeout
+2026-02-21T03:53:00Z ERROR  Server started on port 3000
+2026-02-21T03:53:03Z WARN  POST /api/login 401 9ms
+2026-02-21T03:53:06Z INFO  GET /health 200 3ms
+2026-02-21T03:53:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:53:12Z INFO  GET /health 200 3ms
+2026-02-21T03:53:15Z INFO  Server started on port 3000
+2026-02-21T03:53:18Z INFO  Slow query detected: 1485ms
+2026-02-21T03:53:21Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:53:24Z INFO  Background job completed
+2026-02-21T03:53:27Z INFO  Server started on port 3000
+2026-02-21T03:53:30Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:53:33Z INFO  Database connection timeout
+2026-02-21T03:53:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:53:39Z ERROR  Server started on port 3000
+2026-02-21T03:53:42Z ERROR  Cache miss for key user:1024
+2026-02-21T03:53:45Z INFO  GET /health 200 3ms
+2026-02-21T03:53:48Z WARN  GET /health 200 3ms
+2026-02-21T03:53:51Z INFO  GET /health 200 3ms
+2026-02-21T03:53:54Z INFO  Database connection timeout
+2026-02-21T03:53:57Z INFO  Cache miss for key user:1024
+2026-02-21T03:54:00Z ERROR  Database connection timeout
+2026-02-21T03:54:03Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:54:06Z INFO  Background job completed
+2026-02-21T03:54:09Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:54:12Z INFO  Slow query detected: 946ms
+2026-02-21T03:54:15Z INFO  Slow query detected: 1496ms
+2026-02-21T03:54:18Z INFO  GET /api/users 200 12ms
+2026-02-21T03:54:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:54:24Z INFO  Slow query detected: 1389ms
+2026-02-21T03:54:27Z ERROR  GET /health 200 3ms
+2026-02-21T03:54:30Z INFO  POST /api/login 401 9ms
+2026-02-21T03:54:33Z ERROR  Database connection timeout
+2026-02-21T03:54:36Z INFO  Background job completed
+2026-02-21T03:54:39Z INFO  Background job completed
+2026-02-21T03:54:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:54:45Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:54:48Z WARN  GET /health 200 3ms
+2026-02-21T03:54:51Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:54:54Z WARN  Server started on port 3000
+2026-02-21T03:54:57Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:55:00Z INFO  GET /health 200 3ms
+2026-02-21T03:55:03Z INFO  Database connection timeout
+2026-02-21T03:55:06Z ERROR  Slow query detected: 645ms
+2026-02-21T03:55:09Z INFO  Database connection timeout
+2026-02-21T03:55:12Z WARN  Cache miss for key user:1024
+2026-02-21T03:55:15Z INFO  Database connection timeout
+2026-02-21T03:55:18Z INFO  Background job completed
+2026-02-21T03:55:21Z INFO  GET /api/users 200 12ms
+2026-02-21T03:55:24Z WARN  POST /api/login 401 9ms
+2026-02-21T03:55:27Z INFO  Cache miss for key user:1024
+2026-02-21T03:55:30Z WARN  Cache miss for key user:1024
+2026-02-21T03:55:33Z INFO  GET /api/users 200 12ms
+2026-02-21T03:55:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:55:39Z ERROR  Background job completed
+2026-02-21T03:55:42Z WARN  Database connection timeout
+2026-02-21T03:55:45Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:55:48Z INFO  GET /health 200 3ms
+2026-02-21T03:55:51Z WARN  Cache miss for key user:1024
+2026-02-21T03:55:54Z ERROR  Database connection timeout
+2026-02-21T03:55:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:56:00Z INFO  GET /health 200 3ms
+2026-02-21T03:56:03Z INFO  Background job completed
+2026-02-21T03:56:06Z INFO  GET /health 200 3ms
+2026-02-21T03:56:09Z WARN  GET /api/users 200 12ms
+2026-02-21T03:56:12Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:56:15Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T03:56:18Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:56:21Z ERROR  GET /api/orders 200 18ms
+2026-02-21T03:56:24Z INFO  Background job completed
+2026-02-21T03:56:27Z INFO  GET /api/users 200 12ms
+2026-02-21T03:56:30Z INFO  Slow query detected: 574ms
+2026-02-21T03:56:33Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:56:36Z INFO  POST /api/login 401 9ms
+2026-02-21T03:56:39Z INFO  GET /health 200 3ms
+2026-02-21T03:56:42Z INFO  Background job completed
+2026-02-21T03:56:45Z INFO  GET /health 200 3ms
+2026-02-21T03:56:48Z INFO  Cache miss for key user:1024
+2026-02-21T03:56:51Z ERROR  Database connection timeout
+2026-02-21T03:56:54Z ERROR  Slow query detected: 1035ms
+2026-02-21T03:56:57Z WARN  POST /api/login 401 9ms
+2026-02-21T03:57:00Z INFO  Cache miss for key user:1024
+2026-02-21T03:57:03Z INFO  Server started on port 3000
+2026-02-21T03:57:06Z INFO  POST /api/login 401 9ms
+2026-02-21T03:57:09Z INFO  Background job completed
+2026-02-21T03:57:12Z INFO  GET /api/users 200 12ms
+2026-02-21T03:57:15Z INFO  Slow query detected: 1386ms
+2026-02-21T03:57:18Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:57:21Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:57:24Z WARN  GET /api/orders 200 18ms
+2026-02-21T03:57:27Z INFO  Background job completed
+2026-02-21T03:57:30Z INFO  GET /health 200 3ms
+2026-02-21T03:57:33Z WARN  Slow query detected: 531ms
+2026-02-21T03:57:36Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:57:39Z WARN  Slow query detected: 1445ms
+2026-02-21T03:57:42Z WARN  Cache miss for key user:1024
+2026-02-21T03:57:45Z INFO  GET /health 200 3ms
+2026-02-21T03:57:48Z WARN  Database connection timeout
+2026-02-21T03:57:51Z INFO  Retrying database connection (attempt 3)
+2026-02-21T03:57:54Z INFO  Database connection timeout
+2026-02-21T03:57:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:58:00Z ERROR  Server started on port 3000
+2026-02-21T03:58:03Z ERROR  Cache miss for key user:1024
+2026-02-21T03:58:06Z INFO  Retrying database connection (attempt 1)
+2026-02-21T03:58:09Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:58:12Z INFO  Background job completed
+2026-02-21T03:58:15Z WARN  Slow query detected: 654ms
+2026-02-21T03:58:18Z INFO  GET /health 200 3ms
+2026-02-21T03:58:21Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:58:24Z INFO  Slow query detected: 1227ms
+2026-02-21T03:58:27Z INFO  Background job completed
+2026-02-21T03:58:30Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:58:33Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:58:36Z INFO  Retrying database connection (attempt 2)
+2026-02-21T03:58:39Z WARN  POST /api/login 401 9ms
+2026-02-21T03:58:42Z INFO  GET /api/users 200 12ms
+2026-02-21T03:58:45Z INFO  Database connection timeout
+2026-02-21T03:58:48Z INFO  GET /health 200 3ms
+2026-02-21T03:58:51Z WARN  Cache miss for key user:1024
+2026-02-21T03:58:54Z WARN  Background job completed
+2026-02-21T03:58:57Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:59:00Z INFO  Slow query detected: 975ms
+2026-02-21T03:59:03Z INFO  Database connection timeout
+2026-02-21T03:59:06Z INFO  Slow query detected: 1241ms
+2026-02-21T03:59:09Z INFO  Slow query detected: 853ms
+2026-02-21T03:59:12Z ERROR  POST /api/login 401 9ms
+2026-02-21T03:59:15Z INFO  Slow query detected: 589ms
+2026-02-21T03:59:18Z INFO  GET /health 200 3ms
+2026-02-21T03:59:21Z ERROR  GET /api/users 200 12ms
+2026-02-21T03:59:24Z ERROR  Slow query detected: 1353ms
+2026-02-21T03:59:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T03:59:30Z INFO  Slow query detected: 572ms
+2026-02-21T03:59:33Z INFO  Slow query detected: 1048ms
+2026-02-21T03:59:36Z WARN  GET /api/users 200 12ms
+2026-02-21T03:59:39Z INFO  GET /api/users 200 12ms
+2026-02-21T03:59:42Z INFO  GET /health 200 3ms
+2026-02-21T03:59:45Z INFO  Database connection timeout
+2026-02-21T03:59:48Z INFO  GET /health 200 3ms
+2026-02-21T03:59:51Z INFO  Cache miss for key user:1024
+2026-02-21T03:59:54Z INFO  Server started on port 3000
+2026-02-21T03:59:57Z INFO  Background job completed
+2026-02-21T04:00:00Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:00:03Z INFO  Database connection timeout
+2026-02-21T04:00:06Z ERROR  GET /health 200 3ms
+2026-02-21T04:00:09Z WARN  GET /health 200 3ms
+2026-02-21T04:00:12Z INFO  GET /health 200 3ms
+2026-02-21T04:00:15Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:00:18Z ERROR  Server started on port 3000
+2026-02-21T04:00:21Z WARN  Background job completed
+2026-02-21T04:00:24Z INFO  Cache miss for key user:1024
+2026-02-21T04:00:27Z INFO  GET /api/users 200 12ms
+2026-02-21T04:00:30Z WARN  Cache miss for key user:1024
+2026-02-21T04:00:33Z INFO  GET /api/users 200 12ms
+2026-02-21T04:00:36Z INFO  Background job completed
+2026-02-21T04:00:39Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:00:42Z INFO  Server started on port 3000
+2026-02-21T04:00:45Z ERROR  Slow query detected: 1471ms
+2026-02-21T04:00:48Z INFO  Background job completed
+2026-02-21T04:00:51Z INFO  Slow query detected: 599ms
+2026-02-21T04:00:54Z WARN  GET /health 200 3ms
+2026-02-21T04:00:57Z INFO  Background job completed
+2026-02-21T04:01:00Z INFO  Slow query detected: 1027ms
+2026-02-21T04:01:03Z WARN  Retrying database connection (attempt 1)
+2026-02-21T04:01:06Z INFO  Cache miss for key user:1024
+2026-02-21T04:01:09Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:01:12Z INFO  POST /api/login 401 9ms
+2026-02-21T04:01:15Z INFO  GET /api/users 200 12ms
+2026-02-21T04:01:18Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:01:21Z INFO  GET /health 200 3ms
+2026-02-21T04:01:24Z ERROR  Slow query detected: 1568ms
+2026-02-21T04:01:27Z INFO  Server started on port 3000
+2026-02-21T04:01:30Z WARN  Slow query detected: 1556ms
+2026-02-21T04:01:33Z INFO  Cache miss for key user:1024
+2026-02-21T04:01:36Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:01:39Z INFO  POST /api/login 401 9ms
+2026-02-21T04:01:42Z INFO  GET /health 200 3ms
+2026-02-21T04:01:45Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:01:48Z INFO  Slow query detected: 623ms
+2026-02-21T04:01:51Z ERROR  Database connection timeout
+2026-02-21T04:01:54Z INFO  GET /health 200 3ms
+2026-02-21T04:01:57Z WARN  Server started on port 3000
+2026-02-21T04:02:00Z WARN  Server started on port 3000
+2026-02-21T04:02:03Z WARN  Slow query detected: 622ms
+2026-02-21T04:02:06Z INFO  Database connection timeout
+2026-02-21T04:02:09Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:02:12Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:02:15Z INFO  Database connection timeout
+2026-02-21T04:02:18Z INFO  Server started on port 3000
+2026-02-21T04:02:21Z INFO  GET /health 200 3ms
+2026-02-21T04:02:24Z WARN  Database connection timeout
+2026-02-21T04:02:27Z INFO  POST /api/login 401 9ms
+2026-02-21T04:02:30Z WARN  Background job completed
+2026-02-21T04:02:33Z INFO  Background job completed
+2026-02-21T04:02:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:02:39Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:02:42Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:02:45Z WARN  GET /health 200 3ms
+2026-02-21T04:02:48Z INFO  Background job completed
+2026-02-21T04:02:51Z ERROR  Background job completed
+2026-02-21T04:02:54Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:02:57Z WARN  Slow query detected: 571ms
+2026-02-21T04:03:00Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:03:03Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:03:06Z ERROR  Cache miss for key user:1024
+2026-02-21T04:03:09Z ERROR  Background job completed
+2026-02-21T04:03:12Z INFO  Database connection timeout
+2026-02-21T04:03:15Z WARN  GET /health 200 3ms
+2026-02-21T04:03:18Z INFO  Cache miss for key user:1024
+2026-02-21T04:03:21Z WARN  Server started on port 3000
+2026-02-21T04:03:24Z WARN  POST /api/login 401 9ms
+2026-02-21T04:03:27Z INFO  Background job completed
+2026-02-21T04:03:30Z WARN  POST /api/login 401 9ms
+2026-02-21T04:03:33Z WARN  Cache miss for key user:1024
+2026-02-21T04:03:36Z INFO  GET /api/users 200 12ms
+2026-02-21T04:03:39Z ERROR  Cache miss for key user:1024
+2026-02-21T04:03:42Z WARN  Retrying database connection (attempt 2)
+2026-02-21T04:03:45Z WARN  Slow query detected: 999ms
+2026-02-21T04:03:48Z INFO  Cache miss for key user:1024
+2026-02-21T04:03:51Z ERROR  GET /health 200 3ms
+2026-02-21T04:03:54Z INFO  Background job completed
+2026-02-21T04:03:57Z INFO  GET /api/users 200 12ms
+2026-02-21T04:04:00Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:04:03Z WARN  GET /api/users 200 12ms
+2026-02-21T04:04:06Z INFO  Server started on port 3000
+2026-02-21T04:04:09Z INFO  Slow query detected: 941ms
+2026-02-21T04:04:12Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:04:15Z WARN  POST /api/login 401 9ms
+2026-02-21T04:04:18Z WARN  POST /api/login 401 9ms
+2026-02-21T04:04:21Z INFO  POST /api/login 401 9ms
+2026-02-21T04:04:24Z WARN  Database connection timeout
+2026-02-21T04:04:27Z WARN  Cache miss for key user:1024
+2026-02-21T04:04:30Z ERROR  Server started on port 3000
+2026-02-21T04:04:33Z WARN  Slow query detected: 675ms
+2026-02-21T04:04:36Z INFO  Server started on port 3000
+2026-02-21T04:04:39Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:04:42Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:04:45Z INFO  GET /api/users 200 12ms
+2026-02-21T04:04:48Z INFO  POST /api/login 401 9ms
+2026-02-21T04:04:51Z INFO  Slow query detected: 640ms
+2026-02-21T04:04:54Z INFO  Background job completed
+2026-02-21T04:04:57Z INFO  Database connection timeout
+2026-02-21T04:05:00Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:05:03Z WARN  Slow query detected: 769ms
+2026-02-21T04:05:06Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:05:09Z INFO  GET /health 200 3ms
+2026-02-21T04:05:12Z ERROR  Cache miss for key user:1024
+2026-02-21T04:05:15Z ERROR  Cache miss for key user:1024
+2026-02-21T04:05:18Z WARN  GET /health 200 3ms
+2026-02-21T04:05:21Z INFO  GET /api/users 200 12ms
+2026-02-21T04:05:24Z WARN  Database connection timeout
+2026-02-21T04:05:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:05:30Z INFO  GET /health 200 3ms
+2026-02-21T04:05:33Z WARN  Slow query detected: 1329ms
+2026-02-21T04:05:36Z INFO  GET /health 200 3ms
+2026-02-21T04:05:39Z WARN  POST /api/login 401 9ms
+2026-02-21T04:05:42Z INFO  GET /health 200 3ms
+2026-02-21T04:05:45Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:05:48Z WARN  Background job completed
+2026-02-21T04:05:51Z INFO  GET /api/users 200 12ms
+2026-02-21T04:05:54Z INFO  Cache miss for key user:1024
+2026-02-21T04:05:57Z INFO  Slow query detected: 1510ms
+2026-02-21T04:06:00Z WARN  Database connection timeout
+2026-02-21T04:06:03Z INFO  Server started on port 3000
+2026-02-21T04:06:06Z INFO  Background job completed
+2026-02-21T04:06:09Z WARN  POST /api/login 401 9ms
+2026-02-21T04:06:12Z INFO  GET /api/users 200 12ms
+2026-02-21T04:06:15Z INFO  POST /api/login 401 9ms
+2026-02-21T04:06:18Z INFO  POST /api/login 401 9ms
+2026-02-21T04:06:21Z INFO  GET /health 200 3ms
+2026-02-21T04:06:24Z ERROR  Cache miss for key user:1024
+2026-02-21T04:06:27Z WARN  Cache miss for key user:1024
+2026-02-21T04:06:30Z INFO  GET /health 200 3ms
+2026-02-21T04:06:33Z ERROR  Server started on port 3000
+2026-02-21T04:06:36Z INFO  Cache miss for key user:1024
+2026-02-21T04:06:39Z WARN  POST /api/login 401 9ms
+2026-02-21T04:06:42Z INFO  Database connection timeout
+2026-02-21T04:06:45Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:06:48Z INFO  Cache miss for key user:1024
+2026-02-21T04:06:51Z INFO  Background job completed
+2026-02-21T04:06:54Z INFO  Server started on port 3000
+2026-02-21T04:06:57Z INFO  GET /api/users 200 12ms
+2026-02-21T04:07:00Z INFO  Slow query detected: 1013ms
+2026-02-21T04:07:03Z INFO  Cache miss for key user:1024
+2026-02-21T04:07:06Z WARN  GET /api/users 200 12ms
+2026-02-21T04:07:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:07:12Z INFO  Background job completed
+2026-02-21T04:07:15Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:07:18Z INFO  Server started on port 3000
+2026-02-21T04:07:21Z INFO  Server started on port 3000
+2026-02-21T04:07:24Z WARN  Background job completed
+2026-02-21T04:07:27Z WARN  GET /health 200 3ms
+2026-02-21T04:07:30Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:07:33Z INFO  GET /api/users 200 12ms
+2026-02-21T04:07:36Z INFO  Database connection timeout
+2026-02-21T04:07:39Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:07:42Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:07:45Z INFO  Cache miss for key user:1024
+2026-02-21T04:07:48Z WARN  Background job completed
+2026-02-21T04:07:51Z INFO  Server started on port 3000
+2026-02-21T04:07:54Z WARN  POST /api/login 401 9ms
+2026-02-21T04:07:57Z INFO  Server started on port 3000
+2026-02-21T04:08:00Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:08:03Z INFO  GET /health 200 3ms
+2026-02-21T04:08:06Z INFO  POST /api/login 401 9ms
+2026-02-21T04:08:09Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:08:12Z ERROR  GET /health 200 3ms
+2026-02-21T04:08:15Z INFO  GET /api/users 200 12ms
+2026-02-21T04:08:18Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:08:21Z WARN  Slow query detected: 764ms
+2026-02-21T04:08:24Z INFO  GET /health 200 3ms
+2026-02-21T04:08:27Z WARN  Retrying database connection (attempt 3)
+2026-02-21T04:08:30Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:08:33Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:08:36Z WARN  Background job completed
+2026-02-21T04:08:39Z INFO  GET /api/users 200 12ms
+2026-02-21T04:08:42Z INFO  GET /api/users 200 12ms
+2026-02-21T04:08:45Z INFO  Background job completed
+2026-02-21T04:08:48Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:08:51Z ERROR  Server started on port 3000
+2026-02-21T04:08:54Z WARN  Background job completed
+2026-02-21T04:08:57Z INFO  Slow query detected: 1300ms
+2026-02-21T04:09:00Z INFO  Server started on port 3000
+2026-02-21T04:09:03Z INFO  GET /api/users 200 12ms
+2026-02-21T04:09:06Z INFO  Background job completed
+2026-02-21T04:09:09Z INFO  POST /api/login 401 9ms
+2026-02-21T04:09:12Z INFO  GET /health 200 3ms
+2026-02-21T04:09:15Z INFO  Slow query detected: 836ms
+2026-02-21T04:09:18Z WARN  Retrying database connection (attempt 3)
+2026-02-21T04:09:21Z WARN  GET /api/users 200 12ms
+2026-02-21T04:09:24Z WARN  GET /api/users 200 12ms
+2026-02-21T04:09:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:09:30Z ERROR  Cache miss for key user:1024
+2026-02-21T04:09:33Z INFO  Cache miss for key user:1024
+2026-02-21T04:09:36Z INFO  Server started on port 3000
+2026-02-21T04:09:39Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:09:42Z INFO  Slow query detected: 606ms
+2026-02-21T04:09:45Z WARN  GET /health 200 3ms
+2026-02-21T04:09:48Z INFO  POST /api/login 401 9ms
+2026-02-21T04:09:51Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:09:54Z INFO  POST /api/login 401 9ms
+2026-02-21T04:09:57Z INFO  Database connection timeout
+2026-02-21T04:10:00Z INFO  Background job completed
+2026-02-21T04:10:03Z WARN  POST /api/login 401 9ms
+2026-02-21T04:10:06Z INFO  GET /api/users 200 12ms
+2026-02-21T04:10:09Z WARN  Cache miss for key user:1024
+2026-02-21T04:10:12Z ERROR  GET /health 200 3ms
+2026-02-21T04:10:15Z ERROR  Database connection timeout
+2026-02-21T04:10:18Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:10:21Z INFO  Background job completed
+2026-02-21T04:10:24Z INFO  Server started on port 3000
+2026-02-21T04:10:27Z WARN  Cache miss for key user:1024
+2026-02-21T04:10:30Z INFO  Background job completed
+2026-02-21T04:10:33Z ERROR  Cache miss for key user:1024
+2026-02-21T04:10:36Z ERROR  Background job completed
+2026-02-21T04:10:39Z INFO  POST /api/login 401 9ms
+2026-02-21T04:10:42Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:10:45Z INFO  Slow query detected: 832ms
+2026-02-21T04:10:48Z WARN  Background job completed
+2026-02-21T04:10:51Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:10:54Z WARN  POST /api/login 401 9ms
+2026-02-21T04:10:57Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:11:00Z ERROR  Server started on port 3000
+2026-02-21T04:11:03Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:11:06Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:11:09Z INFO  Slow query detected: 1367ms
+2026-02-21T04:11:12Z INFO  Cache miss for key user:1024
+2026-02-21T04:11:15Z INFO  Cache miss for key user:1024
+2026-02-21T04:11:18Z INFO  POST /api/login 401 9ms
+2026-02-21T04:11:21Z INFO  GET /api/users 200 12ms
+2026-02-21T04:11:24Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:11:27Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:11:30Z INFO  GET /api/users 200 12ms
+2026-02-21T04:11:33Z WARN  Cache miss for key user:1024
+2026-02-21T04:11:36Z INFO  Cache miss for key user:1024
+2026-02-21T04:11:39Z INFO  GET /api/users 200 12ms
+2026-02-21T04:11:42Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:11:45Z INFO  GET /api/users 200 12ms
+2026-02-21T04:11:48Z INFO  GET /api/users 200 12ms
+2026-02-21T04:11:51Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:11:54Z INFO  Slow query detected: 819ms
+2026-02-21T04:11:57Z WARN  Slow query detected: 1088ms
+2026-02-21T04:12:00Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:12:03Z WARN  GET /api/users 200 12ms
+2026-02-21T04:12:06Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:12:09Z INFO  GET /health 200 3ms
+2026-02-21T04:12:12Z ERROR  Database connection timeout
+2026-02-21T04:12:15Z INFO  Cache miss for key user:1024
+2026-02-21T04:12:18Z WARN  Cache miss for key user:1024
+2026-02-21T04:12:21Z INFO  Server started on port 3000
+2026-02-21T04:12:24Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:12:27Z WARN  Retrying database connection (attempt 2)
+2026-02-21T04:12:30Z INFO  Server started on port 3000
+2026-02-21T04:12:33Z INFO  Database connection timeout
+2026-02-21T04:12:36Z INFO  Background job completed
+2026-02-21T04:12:39Z ERROR  GET /health 200 3ms
+2026-02-21T04:12:42Z WARN  Slow query detected: 1247ms
+2026-02-21T04:12:45Z WARN  Database connection timeout
+2026-02-21T04:12:48Z INFO  Slow query detected: 1086ms
+2026-02-21T04:12:51Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:12:54Z INFO  GET /health 200 3ms
+2026-02-21T04:12:57Z INFO  Background job completed
+2026-02-21T04:13:00Z WARN  GET /health 200 3ms
+2026-02-21T04:13:03Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:13:06Z ERROR  Cache miss for key user:1024
+2026-02-21T04:13:09Z INFO  Cache miss for key user:1024
+2026-02-21T04:13:12Z INFO  Database connection timeout
+2026-02-21T04:13:15Z INFO  Database connection timeout
+2026-02-21T04:13:18Z WARN  Slow query detected: 882ms
+2026-02-21T04:13:21Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:13:24Z INFO  Cache miss for key user:1024
+2026-02-21T04:13:27Z INFO  Database connection timeout
+2026-02-21T04:13:30Z ERROR  Server started on port 3000
+2026-02-21T04:13:33Z INFO  Database connection timeout
+2026-02-21T04:13:36Z INFO  Slow query detected: 1548ms
+2026-02-21T04:13:39Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:13:42Z INFO  Cache miss for key user:1024
+2026-02-21T04:13:45Z INFO  GET /api/users 200 12ms
+2026-02-21T04:13:48Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T04:13:51Z INFO  Background job completed
+2026-02-21T04:13:54Z INFO  GET /api/users 200 12ms
+2026-02-21T04:13:57Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:14:00Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:14:03Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:14:06Z WARN  Slow query detected: 1543ms
+2026-02-21T04:14:09Z WARN  Server started on port 3000
+2026-02-21T04:14:12Z INFO  Cache miss for key user:1024
+2026-02-21T04:14:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:14:18Z INFO  Database connection timeout
+2026-02-21T04:14:21Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:14:24Z INFO  Slow query detected: 1237ms
+2026-02-21T04:14:27Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:14:30Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:14:33Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:14:36Z INFO  Background job completed
+2026-02-21T04:14:39Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:14:42Z INFO  Database connection timeout
+2026-02-21T04:14:45Z WARN  Database connection timeout
+2026-02-21T04:14:48Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:14:51Z INFO  GET /health 200 3ms
+2026-02-21T04:14:54Z WARN  Server started on port 3000
+2026-02-21T04:14:57Z INFO  Background job completed
+2026-02-21T04:15:00Z INFO  GET /api/users 200 12ms
+2026-02-21T04:15:03Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:15:06Z INFO  Server started on port 3000
+2026-02-21T04:15:09Z INFO  Background job completed
+2026-02-21T04:15:12Z INFO  GET /api/users 200 12ms
+2026-02-21T04:15:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:15:18Z ERROR  Database connection timeout
+2026-02-21T04:15:21Z WARN  Server started on port 3000
+2026-02-21T04:15:24Z INFO  POST /api/login 401 9ms
+2026-02-21T04:15:27Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:15:30Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:15:33Z INFO  Cache miss for key user:1024
+2026-02-21T04:15:36Z INFO  Cache miss for key user:1024
+2026-02-21T04:15:39Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:15:42Z ERROR  Slow query detected: 1562ms
+2026-02-21T04:15:45Z INFO  Database connection timeout
+2026-02-21T04:15:48Z WARN  POST /api/login 401 9ms
+2026-02-21T04:15:51Z INFO  Server started on port 3000
+2026-02-21T04:15:54Z ERROR  Database connection timeout
+2026-02-21T04:15:57Z ERROR  Server started on port 3000
+2026-02-21T04:16:00Z WARN  Background job completed
+2026-02-21T04:16:03Z INFO  Cache miss for key user:1024
+2026-02-21T04:16:06Z INFO  Slow query detected: 939ms
+2026-02-21T04:16:09Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:16:12Z INFO  Background job completed
+2026-02-21T04:16:15Z WARN  Cache miss for key user:1024
+2026-02-21T04:16:18Z ERROR  GET /health 200 3ms
+2026-02-21T04:16:21Z INFO  Background job completed
+2026-02-21T04:16:24Z INFO  Slow query detected: 1227ms
+2026-02-21T04:16:27Z INFO  Slow query detected: 887ms
+2026-02-21T04:16:30Z INFO  Server started on port 3000
+2026-02-21T04:16:33Z ERROR  Slow query detected: 937ms
+2026-02-21T04:16:36Z WARN  GET /health 200 3ms
+2026-02-21T04:16:39Z INFO  POST /api/login 401 9ms
+2026-02-21T04:16:42Z WARN  GET /api/users 200 12ms
+2026-02-21T04:16:45Z INFO  POST /api/login 401 9ms
+2026-02-21T04:16:48Z WARN  Server started on port 3000
+2026-02-21T04:16:51Z INFO  Database connection timeout
+2026-02-21T04:16:54Z WARN  Database connection timeout
+2026-02-21T04:16:57Z INFO  Server started on port 3000
+2026-02-21T04:17:00Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:17:03Z ERROR  Server started on port 3000
+2026-02-21T04:17:06Z INFO  Slow query detected: 639ms
+2026-02-21T04:17:09Z WARN  Server started on port 3000
+2026-02-21T04:17:12Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:17:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:17:18Z INFO  GET /api/users 200 12ms
+2026-02-21T04:17:21Z INFO  Cache miss for key user:1024
+2026-02-21T04:17:24Z ERROR  Cache miss for key user:1024
+2026-02-21T04:17:27Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:17:30Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:17:33Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:17:36Z ERROR  GET /health 200 3ms
+2026-02-21T04:17:39Z WARN  Retrying database connection (attempt 3)
+2026-02-21T04:17:42Z ERROR  Background job completed
+2026-02-21T04:17:45Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T04:17:48Z INFO  Server started on port 3000
+2026-02-21T04:17:51Z WARN  Slow query detected: 713ms
+2026-02-21T04:17:54Z INFO  Slow query detected: 872ms
+2026-02-21T04:17:57Z INFO  Cache miss for key user:1024
+2026-02-21T04:18:00Z INFO  POST /api/login 401 9ms
+2026-02-21T04:18:03Z WARN  Database connection timeout
+2026-02-21T04:18:06Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:18:09Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:18:12Z INFO  Background job completed
+2026-02-21T04:18:15Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:18:18Z WARN  Background job completed
+2026-02-21T04:18:21Z ERROR  Background job completed
+2026-02-21T04:18:24Z INFO  GET /health 200 3ms
+2026-02-21T04:18:27Z ERROR  Background job completed
+2026-02-21T04:18:30Z INFO  Background job completed
+2026-02-21T04:18:33Z INFO  GET /api/users 200 12ms
+2026-02-21T04:18:36Z INFO  Server started on port 3000
+2026-02-21T04:18:39Z WARN  GET /health 200 3ms
+2026-02-21T04:18:42Z WARN  GET /health 200 3ms
+2026-02-21T04:18:45Z WARN  Server started on port 3000
+2026-02-21T04:18:48Z WARN  GET /health 200 3ms
+2026-02-21T04:18:51Z INFO  POST /api/login 401 9ms
+2026-02-21T04:18:54Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:18:57Z INFO  GET /health 200 3ms
+2026-02-21T04:19:00Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:19:03Z WARN  GET /health 200 3ms
+2026-02-21T04:19:06Z WARN  POST /api/login 401 9ms
+2026-02-21T04:19:09Z ERROR  GET /health 200 3ms
+2026-02-21T04:19:12Z ERROR  Cache miss for key user:1024
+2026-02-21T04:19:15Z INFO  Database connection timeout
+2026-02-21T04:19:18Z ERROR  Background job completed
+2026-02-21T04:19:21Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:19:24Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:19:27Z INFO  GET /api/users 200 12ms
+2026-02-21T04:19:30Z WARN  Slow query detected: 910ms
+2026-02-21T04:19:33Z INFO  Background job completed
+2026-02-21T04:19:36Z INFO  Cache miss for key user:1024
+2026-02-21T04:19:39Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:19:42Z INFO  Background job completed
+2026-02-21T04:19:45Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:19:48Z INFO  POST /api/login 401 9ms
+2026-02-21T04:19:51Z INFO  GET /api/users 200 12ms
+2026-02-21T04:19:54Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:19:57Z INFO  Background job completed
+2026-02-21T04:20:00Z WARN  POST /api/login 401 9ms
+2026-02-21T04:20:03Z INFO  GET /health 200 3ms
+2026-02-21T04:20:06Z ERROR  GET /health 200 3ms
+2026-02-21T04:20:09Z ERROR  Background job completed
+2026-02-21T04:20:12Z ERROR  Server started on port 3000
+2026-02-21T04:20:15Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:20:18Z INFO  Server started on port 3000
+2026-02-21T04:20:21Z INFO  Background job completed
+2026-02-21T04:20:24Z INFO  GET /health 200 3ms
+2026-02-21T04:20:27Z INFO  GET /api/users 200 12ms
+2026-02-21T04:20:30Z INFO  Slow query detected: 506ms
+2026-02-21T04:20:33Z ERROR  Server started on port 3000
+2026-02-21T04:20:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:20:39Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:20:42Z ERROR  Server started on port 3000
+2026-02-21T04:20:45Z INFO  Slow query detected: 614ms
+2026-02-21T04:20:48Z INFO  Cache miss for key user:1024
+2026-02-21T04:20:51Z ERROR  Slow query detected: 1149ms
+2026-02-21T04:20:54Z INFO  Slow query detected: 1473ms
+2026-02-21T04:20:57Z INFO  Database connection timeout
+2026-02-21T04:21:00Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:21:03Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:21:06Z INFO  POST /api/login 401 9ms
+2026-02-21T04:21:09Z INFO  Background job completed
+2026-02-21T04:21:12Z INFO  Database connection timeout
+2026-02-21T04:21:15Z INFO  Server started on port 3000
+2026-02-21T04:21:18Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:21:21Z INFO  POST /api/login 401 9ms
+2026-02-21T04:21:24Z INFO  Slow query detected: 811ms
+2026-02-21T04:21:27Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:21:30Z INFO  Server started on port 3000
+2026-02-21T04:21:33Z WARN  Retrying database connection (attempt 1)
+2026-02-21T04:21:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:21:39Z INFO  Background job completed
+2026-02-21T04:21:42Z ERROR  GET /health 200 3ms
+2026-02-21T04:21:45Z INFO  GET /api/users 200 12ms
+2026-02-21T04:21:48Z INFO  Server started on port 3000
+2026-02-21T04:21:51Z INFO  POST /api/login 401 9ms
+2026-02-21T04:21:54Z INFO  GET /api/users 200 12ms
+2026-02-21T04:21:57Z INFO  Slow query detected: 1319ms
+2026-02-21T04:22:00Z INFO  Database connection timeout
+2026-02-21T04:22:03Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:22:06Z INFO  Slow query detected: 1097ms
+2026-02-21T04:22:09Z WARN  POST /api/login 401 9ms
+2026-02-21T04:22:12Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:22:15Z INFO  GET /health 200 3ms
+2026-02-21T04:22:18Z INFO  GET /api/users 200 12ms
+2026-02-21T04:22:21Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:22:24Z WARN  Slow query detected: 909ms
+2026-02-21T04:22:27Z WARN  GET /health 200 3ms
+2026-02-21T04:22:30Z INFO  Slow query detected: 995ms
+2026-02-21T04:22:33Z INFO  Slow query detected: 1113ms
+2026-02-21T04:22:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:22:39Z INFO  Database connection timeout
+2026-02-21T04:22:42Z WARN  Database connection timeout
+2026-02-21T04:22:45Z INFO  Database connection timeout
+2026-02-21T04:22:48Z INFO  POST /api/login 401 9ms
+2026-02-21T04:22:51Z INFO  Background job completed
+2026-02-21T04:22:54Z INFO  Cache miss for key user:1024
+2026-02-21T04:22:57Z INFO  POST /api/login 401 9ms
+2026-02-21T04:23:00Z INFO  POST /api/login 401 9ms
+2026-02-21T04:23:03Z INFO  Background job completed
+2026-02-21T04:23:06Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:23:09Z INFO  Cache miss for key user:1024
+2026-02-21T04:23:12Z ERROR  Database connection timeout
+2026-02-21T04:23:15Z INFO  Database connection timeout
+2026-02-21T04:23:18Z INFO  GET /api/users 200 12ms
+2026-02-21T04:23:21Z INFO  POST /api/login 401 9ms
+2026-02-21T04:23:24Z WARN  Server started on port 3000
+2026-02-21T04:23:27Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:23:30Z INFO  Slow query detected: 527ms
+2026-02-21T04:23:33Z INFO  Server started on port 3000
+2026-02-21T04:23:36Z INFO  Slow query detected: 1128ms
+2026-02-21T04:23:39Z INFO  Database connection timeout
+2026-02-21T04:23:42Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:23:45Z INFO  Background job completed
+2026-02-21T04:23:48Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:23:51Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:23:54Z WARN  GET /api/users 200 12ms
+2026-02-21T04:23:57Z INFO  POST /api/login 401 9ms
+2026-02-21T04:24:00Z WARN  Slow query detected: 1160ms
+2026-02-21T04:24:03Z ERROR  Database connection timeout
+2026-02-21T04:24:06Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:24:09Z WARN  GET /api/users 200 12ms
+2026-02-21T04:24:12Z ERROR  Cache miss for key user:1024
+2026-02-21T04:24:15Z ERROR  GET /health 200 3ms
+2026-02-21T04:24:18Z INFO  Server started on port 3000
+2026-02-21T04:24:21Z WARN  Database connection timeout
+2026-02-21T04:24:24Z INFO  Slow query detected: 607ms
+2026-02-21T04:24:27Z WARN  GET /api/users 200 12ms
+2026-02-21T04:24:30Z INFO  Background job completed
+2026-02-21T04:24:33Z ERROR  Server started on port 3000
+2026-02-21T04:24:36Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:24:39Z INFO  Server started on port 3000
+2026-02-21T04:24:42Z WARN  Server started on port 3000
+2026-02-21T04:24:45Z INFO  Slow query detected: 1181ms
+2026-02-21T04:24:48Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:24:51Z WARN  Retrying database connection (attempt 3)
+2026-02-21T04:24:54Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T04:24:57Z INFO  POST /api/login 401 9ms
+2026-02-21T04:25:00Z WARN  GET /api/users 200 12ms
+2026-02-21T04:25:03Z WARN  Slow query detected: 1135ms
+2026-02-21T04:25:06Z INFO  Background job completed
+2026-02-21T04:25:09Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:25:12Z WARN  GET /health 200 3ms
+2026-02-21T04:25:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:25:18Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:25:21Z INFO  POST /api/login 401 9ms
+2026-02-21T04:25:24Z ERROR  Retrying database connection (attempt 3)
+2026-02-21T04:25:27Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:25:30Z WARN  Slow query detected: 932ms
+2026-02-21T04:25:33Z ERROR  Cache miss for key user:1024
+2026-02-21T04:25:36Z INFO  GET /api/users 200 12ms
+2026-02-21T04:25:39Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:25:42Z INFO  Slow query detected: 541ms
+2026-02-21T04:25:45Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:25:48Z INFO  GET /api/users 200 12ms
+2026-02-21T04:25:51Z INFO  GET /health 200 3ms
+2026-02-21T04:25:54Z WARN  Server started on port 3000
+2026-02-21T04:25:57Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:26:00Z ERROR  Background job completed
+2026-02-21T04:26:03Z INFO  GET /api/users 200 12ms
+2026-02-21T04:26:06Z INFO  Server started on port 3000
+2026-02-21T04:26:09Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:26:12Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:26:15Z INFO  GET /api/users 200 12ms
+2026-02-21T04:26:18Z WARN  Background job completed
+2026-02-21T04:26:21Z INFO  Database connection timeout
+2026-02-21T04:26:24Z INFO  Server started on port 3000
+2026-02-21T04:26:27Z INFO  GET /api/users 200 12ms
+2026-02-21T04:26:30Z INFO  Database connection timeout
+2026-02-21T04:26:33Z INFO  POST /api/login 401 9ms
+2026-02-21T04:26:36Z INFO  Slow query detected: 1298ms
+2026-02-21T04:26:39Z WARN  Database connection timeout
+2026-02-21T04:26:42Z INFO  Slow query detected: 1091ms
+2026-02-21T04:26:45Z INFO  POST /api/login 401 9ms
+2026-02-21T04:26:48Z INFO  Slow query detected: 1227ms
+2026-02-21T04:26:51Z INFO  Cache miss for key user:1024
+2026-02-21T04:26:54Z INFO  GET /api/users 200 12ms
+2026-02-21T04:26:57Z INFO  Server started on port 3000
+2026-02-21T04:27:00Z INFO  Slow query detected: 1496ms
+2026-02-21T04:27:03Z INFO  Slow query detected: 1380ms
+2026-02-21T04:27:06Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:27:09Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:27:12Z INFO  Server started on port 3000
+2026-02-21T04:27:15Z WARN  Server started on port 3000
+2026-02-21T04:27:18Z WARN  Cache miss for key user:1024
+2026-02-21T04:27:21Z INFO  Background job completed
+2026-02-21T04:27:24Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:27:27Z INFO  Server started on port 3000
+2026-02-21T04:27:30Z INFO  GET /health 200 3ms
+2026-02-21T04:27:33Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:27:36Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:27:39Z INFO  Slow query detected: 760ms
+2026-02-21T04:27:42Z INFO  POST /api/login 401 9ms
+2026-02-21T04:27:45Z WARN  Cache miss for key user:1024
+2026-02-21T04:27:48Z INFO  Slow query detected: 662ms
+2026-02-21T04:27:51Z WARN  GET /health 200 3ms
+2026-02-21T04:27:54Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:27:57Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:28:00Z INFO  GET /api/users 200 12ms
+2026-02-21T04:28:03Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:28:06Z ERROR  GET /health 200 3ms
+2026-02-21T04:28:09Z ERROR  Cache miss for key user:1024
+2026-02-21T04:28:12Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:28:15Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:28:18Z INFO  Background job completed
+2026-02-21T04:28:21Z WARN  Background job completed
+2026-02-21T04:28:24Z INFO  GET /health 200 3ms
+2026-02-21T04:28:27Z INFO  POST /api/login 401 9ms
+2026-02-21T04:28:30Z INFO  GET /health 200 3ms
+2026-02-21T04:28:33Z ERROR  Server started on port 3000
+2026-02-21T04:28:36Z INFO  GET /health 200 3ms
+2026-02-21T04:28:39Z WARN  Retrying database connection (attempt 3)
+2026-02-21T04:28:42Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:28:45Z INFO  Database connection timeout
+2026-02-21T04:28:48Z INFO  Slow query detected: 1456ms
+2026-02-21T04:28:51Z INFO  POST /api/login 401 9ms
+2026-02-21T04:28:54Z INFO  POST /api/login 401 9ms
+2026-02-21T04:28:57Z WARN  POST /api/login 401 9ms
+2026-02-21T04:29:00Z ERROR  Server started on port 3000
+2026-02-21T04:29:03Z ERROR  GET /health 200 3ms
+2026-02-21T04:29:06Z INFO  Database connection timeout
+2026-02-21T04:29:09Z INFO  Database connection timeout
+2026-02-21T04:29:12Z WARN  Database connection timeout
+2026-02-21T04:29:15Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:29:18Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:29:21Z INFO  Cache miss for key user:1024
+2026-02-21T04:29:24Z WARN  POST /api/login 401 9ms
+2026-02-21T04:29:27Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:29:30Z INFO  Server started on port 3000
+2026-02-21T04:29:33Z WARN  Server started on port 3000
+2026-02-21T04:29:36Z ERROR  Cache miss for key user:1024
+2026-02-21T04:29:39Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:29:42Z WARN  GET /api/users 200 12ms
+2026-02-21T04:29:45Z INFO  Slow query detected: 508ms
+2026-02-21T04:29:48Z ERROR  Server started on port 3000
+2026-02-21T04:29:51Z INFO  POST /api/login 401 9ms
+2026-02-21T04:29:54Z INFO  Background job completed
+2026-02-21T04:29:57Z WARN  Background job completed
+2026-02-21T04:30:00Z INFO  Slow query detected: 831ms
+2026-02-21T04:30:03Z ERROR  Database connection timeout
+2026-02-21T04:30:06Z WARN  Slow query detected: 1484ms
+2026-02-21T04:30:09Z INFO  Database connection timeout
+2026-02-21T04:30:12Z INFO  POST /api/login 401 9ms
+2026-02-21T04:30:15Z INFO  Database connection timeout
+2026-02-21T04:30:18Z INFO  Database connection timeout
+2026-02-21T04:30:21Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:30:24Z INFO  Server started on port 3000
+2026-02-21T04:30:27Z WARN  GET /health 200 3ms
+2026-02-21T04:30:30Z INFO  GET /api/users 200 12ms
+2026-02-21T04:30:33Z INFO  POST /api/login 401 9ms
+2026-02-21T04:30:36Z ERROR  Background job completed
+2026-02-21T04:30:39Z INFO  Slow query detected: 1239ms
+2026-02-21T04:30:42Z WARN  Server started on port 3000
+2026-02-21T04:30:45Z ERROR  Database connection timeout
+2026-02-21T04:30:48Z ERROR  Slow query detected: 630ms
+2026-02-21T04:30:51Z ERROR  Database connection timeout
+2026-02-21T04:30:54Z INFO  GET /health 200 3ms
+2026-02-21T04:30:57Z INFO  Cache miss for key user:1024
+2026-02-21T04:31:00Z ERROR  Database connection timeout
+2026-02-21T04:31:03Z INFO  Database connection timeout
+2026-02-21T04:31:06Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:31:09Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:31:12Z ERROR  Database connection timeout
+2026-02-21T04:31:15Z INFO  Cache miss for key user:1024
+2026-02-21T04:31:18Z INFO  Cache miss for key user:1024
+2026-02-21T04:31:21Z WARN  GET /health 200 3ms
+2026-02-21T04:31:24Z WARN  Server started on port 3000
+2026-02-21T04:31:27Z INFO  Slow query detected: 1317ms
+2026-02-21T04:31:30Z WARN  Database connection timeout
+2026-02-21T04:31:33Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:31:36Z ERROR  Slow query detected: 737ms
+2026-02-21T04:31:39Z INFO  Background job completed
+2026-02-21T04:31:42Z ERROR  Cache miss for key user:1024
+2026-02-21T04:31:45Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:31:48Z INFO  Background job completed
+2026-02-21T04:31:51Z INFO  Slow query detected: 762ms
+2026-02-21T04:31:54Z INFO  GET /health 200 3ms
+2026-02-21T04:31:57Z INFO  Slow query detected: 577ms
+2026-02-21T04:32:00Z WARN  Server started on port 3000
+2026-02-21T04:32:03Z INFO  POST /api/login 401 9ms
+2026-02-21T04:32:06Z ERROR  Database connection timeout
+2026-02-21T04:32:09Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:32:12Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:32:15Z INFO  POST /api/login 401 9ms
+2026-02-21T04:32:18Z ERROR  Cache miss for key user:1024
+2026-02-21T04:32:21Z ERROR  Slow query detected: 1599ms
+2026-02-21T04:32:24Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:32:27Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:32:30Z WARN  GET /api/orders 200 18ms
+2026-02-21T04:32:33Z INFO  Background job completed
+2026-02-21T04:32:36Z INFO  Server started on port 3000
+2026-02-21T04:32:39Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:32:42Z WARN  GET /api/users 200 12ms
+2026-02-21T04:32:45Z ERROR  Server started on port 3000
+2026-02-21T04:32:48Z ERROR  Server started on port 3000
+2026-02-21T04:32:51Z INFO  Cache miss for key user:1024
+2026-02-21T04:32:54Z ERROR  Slow query detected: 1597ms
+2026-02-21T04:32:57Z WARN  Retrying database connection (attempt 2)
+2026-02-21T04:33:00Z WARN  Server started on port 3000
+2026-02-21T04:33:03Z INFO  Server started on port 3000
+2026-02-21T04:33:06Z INFO  Slow query detected: 600ms
+2026-02-21T04:33:09Z WARN  POST /api/login 401 9ms
+2026-02-21T04:33:12Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:33:15Z INFO  Slow query detected: 1491ms
+2026-02-21T04:33:18Z ERROR  Server started on port 3000
+2026-02-21T04:33:21Z INFO  Cache miss for key user:1024
+2026-02-21T04:33:24Z INFO  Slow query detected: 1419ms
+2026-02-21T04:33:27Z WARN  Server started on port 3000
+2026-02-21T04:33:30Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:33:33Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:33:36Z INFO  GET /health 200 3ms
+2026-02-21T04:33:39Z ERROR  Database connection timeout
+2026-02-21T04:33:42Z INFO  Server started on port 3000
+2026-02-21T04:33:45Z INFO  Server started on port 3000
+2026-02-21T04:33:48Z WARN  GET /health 200 3ms
+2026-02-21T04:33:51Z WARN  Retrying database connection (attempt 3)
+2026-02-21T04:33:54Z INFO  Slow query detected: 822ms
+2026-02-21T04:33:57Z INFO  Slow query detected: 1460ms
+2026-02-21T04:34:00Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:34:03Z ERROR  Background job completed
+2026-02-21T04:34:06Z INFO  Server started on port 3000
+2026-02-21T04:34:09Z WARN  Server started on port 3000
+2026-02-21T04:34:12Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:34:15Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:34:18Z WARN  Slow query detected: 544ms
+2026-02-21T04:34:21Z WARN  Slow query detected: 1187ms
+2026-02-21T04:34:24Z ERROR  Slow query detected: 742ms
+2026-02-21T04:34:27Z INFO  GET /api/users 200 12ms
+2026-02-21T04:34:30Z INFO  Server started on port 3000
+2026-02-21T04:34:33Z INFO  Database connection timeout
+2026-02-21T04:34:36Z WARN  Database connection timeout
+2026-02-21T04:34:39Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:34:42Z INFO  Server started on port 3000
+2026-02-21T04:34:45Z ERROR  Database connection timeout
+2026-02-21T04:34:48Z INFO  POST /api/login 401 9ms
+2026-02-21T04:34:51Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:34:54Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:34:57Z INFO  GET /health 200 3ms
+2026-02-21T04:35:00Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:35:03Z INFO  GET /health 200 3ms
+2026-02-21T04:35:06Z ERROR  Database connection timeout
+2026-02-21T04:35:09Z INFO  Slow query detected: 768ms
+2026-02-21T04:35:12Z WARN  POST /api/login 401 9ms
+2026-02-21T04:35:15Z INFO  Cache miss for key user:1024
+2026-02-21T04:35:18Z INFO  GET /api/users 200 12ms
+2026-02-21T04:35:21Z INFO  POST /api/login 401 9ms
+2026-02-21T04:35:24Z WARN  POST /api/login 401 9ms
+2026-02-21T04:35:27Z INFO  Background job completed
+2026-02-21T04:35:30Z INFO  Database connection timeout
+2026-02-21T04:35:33Z INFO  Server started on port 3000
+2026-02-21T04:35:36Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:35:39Z INFO  Background job completed
+2026-02-21T04:35:42Z WARN  Background job completed
+2026-02-21T04:35:45Z INFO  Database connection timeout
+2026-02-21T04:35:48Z ERROR  Slow query detected: 997ms
+2026-02-21T04:35:51Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:35:54Z INFO  Slow query detected: 1499ms
+2026-02-21T04:35:57Z WARN  GET /api/users 200 12ms
+2026-02-21T04:36:00Z INFO  Background job completed
+2026-02-21T04:36:03Z INFO  Server started on port 3000
+2026-02-21T04:36:06Z INFO  Cache miss for key user:1024
+2026-02-21T04:36:09Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:36:12Z WARN  POST /api/login 401 9ms
+2026-02-21T04:36:15Z INFO  Slow query detected: 512ms
+2026-02-21T04:36:18Z ERROR  Slow query detected: 573ms
+2026-02-21T04:36:21Z INFO  Server started on port 3000
+2026-02-21T04:36:24Z WARN  Database connection timeout
+2026-02-21T04:36:27Z INFO  Slow query detected: 739ms
+2026-02-21T04:36:30Z INFO  Cache miss for key user:1024
+2026-02-21T04:36:33Z WARN  GET /health 200 3ms
+2026-02-21T04:36:36Z INFO  POST /api/login 401 9ms
+2026-02-21T04:36:39Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:36:42Z INFO  Cache miss for key user:1024
+2026-02-21T04:36:45Z INFO  Retrying database connection (attempt 3)
+2026-02-21T04:36:48Z WARN  Background job completed
+2026-02-21T04:36:51Z ERROR  Slow query detected: 1319ms
+2026-02-21T04:36:54Z INFO  GET /health 200 3ms
+2026-02-21T04:36:57Z INFO  GET /api/users 200 12ms
+2026-02-21T04:37:00Z INFO  Cache miss for key user:1024
+2026-02-21T04:37:03Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:37:06Z INFO  GET /api/users 200 12ms
+2026-02-21T04:37:09Z INFO  POST /api/login 401 9ms
+2026-02-21T04:37:12Z INFO  Background job completed
+2026-02-21T04:37:15Z INFO  GET /health 200 3ms
+2026-02-21T04:37:18Z INFO  Background job completed
+2026-02-21T04:37:21Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:37:24Z WARN  POST /api/login 401 9ms
+2026-02-21T04:37:27Z ERROR  Database connection timeout
+2026-02-21T04:37:30Z INFO  Slow query detected: 1064ms
+2026-02-21T04:37:33Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:37:36Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:37:39Z ERROR  Background job completed
+2026-02-21T04:37:42Z WARN  Background job completed
+2026-02-21T04:37:45Z INFO  GET /api/users 200 12ms
+2026-02-21T04:37:48Z INFO  Database connection timeout
+2026-02-21T04:37:51Z WARN  GET /api/users 200 12ms
+2026-02-21T04:37:54Z INFO  Server started on port 3000
+2026-02-21T04:37:57Z INFO  Background job completed
+2026-02-21T04:38:00Z ERROR  Database connection timeout
+2026-02-21T04:38:03Z WARN  Retrying database connection (attempt 2)
+2026-02-21T04:38:06Z INFO  GET /health 200 3ms
+2026-02-21T04:38:09Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:38:12Z INFO  Background job completed
+2026-02-21T04:38:15Z INFO  GET /health 200 3ms
+2026-02-21T04:38:18Z INFO  Server started on port 3000
+2026-02-21T04:38:21Z INFO  Background job completed
+2026-02-21T04:38:24Z ERROR  Slow query detected: 1312ms
+2026-02-21T04:38:27Z INFO  GET /api/users 200 12ms
+2026-02-21T04:38:30Z WARN  Database connection timeout
+2026-02-21T04:38:33Z WARN  Retrying database connection (attempt 2)
+2026-02-21T04:38:36Z WARN  GET /health 200 3ms
+2026-02-21T04:38:39Z INFO  Background job completed
+2026-02-21T04:38:42Z INFO  GET /api/orders 200 18ms
+2026-02-21T04:38:45Z INFO  POST /api/login 401 9ms
+2026-02-21T04:38:48Z ERROR  Retrying database connection (attempt 2)
+2026-02-21T04:38:51Z INFO  Database connection timeout
+2026-02-21T04:38:54Z INFO  Retrying database connection (attempt 1)
+2026-02-21T04:38:57Z WARN  POST /api/login 401 9ms
+2026-02-21T04:39:00Z WARN  Cache miss for key user:1024
+2026-02-21T04:39:03Z ERROR  Retrying database connection (attempt 1)
+2026-02-21T04:39:06Z INFO  Background job completed
+2026-02-21T04:39:09Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:39:12Z ERROR  Slow query detected: 1111ms
+2026-02-21T04:39:15Z INFO  Server started on port 3000
+2026-02-21T04:39:18Z ERROR  GET /api/users 200 12ms
+2026-02-21T04:39:21Z INFO  Retrying database connection (attempt 2)
+2026-02-21T04:39:24Z INFO  GET /api/users 200 12ms
+2026-02-21T04:39:27Z WARN  POST /api/login 401 9ms
+2026-02-21T04:39:30Z ERROR  GET /api/orders 200 18ms
+2026-02-21T04:39:33Z WARN  Server started on port 3000
+2026-02-21T04:39:36Z INFO  GET /api/users 200 12ms
+2026-02-21T04:39:39Z INFO  Server started on port 3000
+2026-02-21T04:39:42Z ERROR  POST /api/login 401 9ms
+2026-02-21T04:39:45Z WARN  Slow query detected: 1343ms
+2026-02-21T04:39:48Z INFO  GET /health 200 3ms
+2026-02-21T04:39:51Z INFO  Server started on port 3000
+2026-02-21T04:39:54Z INFO  Cache miss for key user:1024
+2026-02-21T04:39:57Z ERROR  Slow query detected: 1132ms
+2026-02-21T04:40:00Z WARN  GET /health 200 3ms
