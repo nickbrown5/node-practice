@@ -1,0 +1,100 @@
+{
+  "This_Afternoon": {
+    "temperature": 78,
+    "temperatureUnit": "F",
+    "windSpeed": "15 to 20 mph",
+    "windDirection": "N",
+    "shortForecast": "Sunny"
+  },
+  "Tonight": {
+    "temperature": 44,
+    "temperatureUnit": "F",
+    "windSpeed": "15 to 20 mph",
+    "windDirection": "N",
+    "shortForecast": "Mostly Clear"
+  },
+  "Sunday": {
+    "temperature": 64,
+    "temperatureUnit": "F",
+    "windSpeed": "10 to 15 mph",
+    "windDirection": "N",
+    "shortForecast": "Sunny"
+  },
+  "Sunday_Night": {
+    "temperature": 37,
+    "temperatureUnit": "F",
+    "windSpeed": "5 to 10 mph",
+    "windDirection": "N",
+    "shortForecast": "Mostly Clear"
+  },
+  "Monday": {
+    "temperature": 64,
+    "temperatureUnit": "F",
+    "windSpeed": "5 mph",
+    "windDirection": "N",
+    "shortForecast": "Sunny"
+  },
+  "Monday_Night": {
+    "temperature": 38,
+    "temperatureUnit": "F",
+    "windSpeed": "0 to 5 mph",
+    "windDirection": "E",
+    "shortForecast": "Mostly Clear"
+  },
+  "Tuesday": {
+    "temperature": 71,
+    "temperatureUnit": "F",
+    "windSpeed": "0 to 15 mph",
+    "windDirection": "S",
+    "shortForecast": "Sunny"
+  },
+  "Tuesday_Night": {
+    "temperature": 57,
+    "temperatureUnit": "F",
+    "windSpeed": "10 to 15 mph",
+    "windDirection": "S",
+    "shortForecast": "Partly Cloudy"
+  },
+  "Wednesday": {
+    "temperature": 81,
+    "temperatureUnit": "F",
+    "windSpeed": "10 to 20 mph",
+    "windDirection": "S",
+    "shortForecast": "Mostly Sunny"
+  },
+  "Wednesday_Night": {
+    "temperature": 64,
+    "temperatureUnit": "F",
+    "windSpeed": "10 to 20 mph",
+    "windDirection": "S",
+    "shortForecast": "Mostly Cloudy"
+  },
+  "Thursday": {
+    "temperature": 85,
+    "temperatureUnit": "F",
+    "windSpeed": "10 to 15 mph",
+    "windDirection": "W",
+    "shortForecast": "Mostly Sunny"
+  },
+  "Thursday_Night": {
+    "temperature": 55,
+    "temperatureUnit": "F",
+    "windSpeed": "5 to 15 mph",
+    "windDirection": "N",
+    "shortForecast": "Mostly Clear"
+  },
+  "Friday": {
+    "temperature": 80,
+    "temperatureUnit": "F",
+    "windSpeed": "5 to 10 mph",
+    "windDirection": "E",
+    "shortForecast": "Sunny"
+  },
+  "Friday_Night": {
+    "temperature": 54,
+    "temperatureUnit": "F",
+    "windSpeed": "5 to 10 mph",
+    "windDirection": "SE",
+    "shortForecast": "Partly Cloudy"
+  }
+}
