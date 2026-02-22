@@ -1,0 +1,16 @@
+{
+  "name": "fastify-backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Nick Brown",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "fastify": "^5.7.4",
+    "redis": "^5.11.0"
+  }
+}
